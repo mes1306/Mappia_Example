@@ -1,0 +1,6 @@
+X,Y,fid,code,numero,type,statut,x,y,z,num_const,no_civique,nom_rue,conduite,mslink,mapid,edl,guid,mslink_p,mapid_p,edl_p,guid_p,icon_url
+-71.7070517093402,46.6736161905463,1,2,Manoir,Surpresseur,Actif,212448.3692,5171154.3177,36.7858,,,,C-0566,,,,,,,,,./0.png
+-71.7227822318606,46.6745210254011,2,5,Marcoux,Réducteur aval,Actif,211246.4,5171273.458,30,,,,C-1161,,,,,,,,,./0.png
+-71.7335918671034,46.6733092024203,3,4,Victorin,Réducteur aval,Actif,210417.2668,5171151.6591,33.9183,,,,C-0283,,,,,,,,,./0.png
+-71.7073854316589,46.6743006776783,4,1,Doré,Réducteur aval,Actif,212424.0028,5171230.7912,43.6103,,,,C-1130,,,,,,,C-1464,,./0.png
+-71.6952707522999,46.6686286269998,5,3,Guillemette,Réducteur aval,Actif,213341.3081,5170586.193,12.5879,,,,C-1088,,,,,,,C-1411,,./0.png

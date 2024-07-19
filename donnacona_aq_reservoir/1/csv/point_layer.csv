@@ -1,0 +1,3 @@
+X,Y,fid,code,num_noeud,groupe,numero,statut,nom,type_res,mode,x,y,z,no_civique,nom_rue,mslink,mapid,edl,guid,mslink_p,mapid_p,edl_p,guid_p,icon_url
+-71.7435998279531,46.6742289363848,1,1807,N-0007,,ABANDONNÉ,Inactif,,Eau potable,Réservoir,209653.1754,5171265.9316,50,,,,,,,,,N-0007,,./0.png
+-71.7318540889623,46.6850903349974,2,329,N-0192,,USINE,Actif,,Eau potable,Réservoir,210570.7088,5172459.0749,70,,,,,,,,,N-0192,,./0.png
