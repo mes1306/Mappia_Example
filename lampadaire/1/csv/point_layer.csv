@@ -1,0 +1,1115 @@
+X,Y,fid,OBJECTID,FutID,BDLum,Modèle,DispoProte,HautFut,Tension,TypeFut,Probleme_d,TextID,Cablage,Fusible,porteFusib,grounding,TypeTete,LongueurPo,GroupePhot,PuissanceU,PuisFinal,icon_url
+-71.7322928613641,46.6831634473188,1,1,DON-0005,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7271070251794,46.6733868157272,2,2,DON-0010,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7331845393964,46.6768302871691,3,3,DON-0015,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7328324527951,46.6765478454539,4,4,DON-0020,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7324645990957,46.6762756055969,5,5,DON-0025,Projet de base,ERL1004B330AGRAYILR,Absence,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7318573852874,46.6757901976202,6,6,DON-0030,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7316002518719,46.6755781607579,7,7,DON-0035,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.730731545711,46.6748902099462,8,8,DON-0040,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7303749847055,46.6746177959652,9,9,DON-0045,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.731119260159,46.6747557999462,10,10,DON-0050,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7310480476536,46.6754446988631,11,11,DON-0055,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E79, ,31 W Type 2,./0.png
+-71.7305828509648,46.6757166484974,12,12,DON-0060,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E79, ,31 W Type 2,./0.png
+-71.7297022494842,46.676291497114,13,13,DON-0065,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E79, ,31 W Type 2,./0.png
+-71.7281424898169,46.6764078219922,14,14,DON-0070,Projet de base,ERL1004C330AGRAYILR,PorteFusible,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E80, ,31 W Type 3,./0.png
+-71.7275138157022,46.6760232502453,15,15,DON-0075,Projet de base,ERL1004C330AGRAYILR,Sectionneur,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E80, ,31 W Type 3,./0.png
+-71.7267131094781,46.6757988649534,16,16,DON-0080,Projet de base,ERL1004C330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E80, ,31 W Type 3,./0.png
+-71.7256761965713,46.6757224262559,17,17,DON-0085,Projet de base,ERL1004C330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E80, ,31 W Type 3,./0.png
+-71.7247094470098,46.6757352021483,18,18,DON-0090,Projet de base,ERL1004C330AGRAYILR,Absence,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E80, ,31 W Type 3,./0.png
+-71.7240936114698,46.6758740653291,19,19,DON-0095,Projet de base,ERL1004C330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E80, ,31 W Type 3,./0.png
+-71.7336138576889,46.6771740496483,20,20,DON-0100,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7345855072953,46.6769540310549,21,21,DON-0105,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7340512442051,46.6765082687911,22,22,DON-0110,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7346791912888,46.6738030630887,23,23,DON-0115,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7323672687111,46.6756935172556,24,24,DON-0120,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7316445973562,46.676168189317,25,25,DON-0125,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.73220925265,46.675252783423,26,26,DON-0130,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7318257154134,46.6749096679896,27,27,DON-0135,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7317366078841,46.67452917833,28,28,DON-0140,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7343983660865,46.6733729563054,29,29,DON-0145,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E21,"15",47 W Type 2,./0.png
+-71.7344857666889,46.6735747997368,30,30,DON-0150,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7345551746626,46.6746768269377,31,31,DON-0155,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7330700795759,46.6764362430881,32,32,DON-0160,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7348519406019,46.6748911761531,33,33,DON-0165,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7358445890832,46.6756081820706,34,34,DON-0170,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7352464490975,46.6763170687392,35,35,DON-0175,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7347120742788,46.675908936686,36,36,DON-0180,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7342096050166,46.6755491759428,37,37,DON-0185,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7334489342058,46.6749557223289,38,38,DON-0190,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7329162395037,46.6756190607963,39,39,DON-0195,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7072258852427,46.6735714540005,40,40,DON-0200,Projet de base,ERL1006B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19,"15",47 W Type 2,./0.png
+-71.7067479817858,46.6731651155297,41,41,DON-0205,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7061345078959,46.672678760824,42,42,DON-0210,Projet de base,ERL1006B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7198407320795,46.6725050926134,43,43,DON-0215,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.6957164915638,46.6688927053388,44,44,DON-0220,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.6954232201626,46.6685143379041,45,45,DON-0225,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7037560438249,46.6707865071066,46,46,DON-0230,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7042268310637,46.6711425794976,47,47,DON-0235,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7047046766474,46.6715451577904,48,48,DON-0240,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7057124109122,46.6722881595712,49,49,DON-0245,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7185266980638,46.6724402386523,50,50,DON-0250,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.719691609649,46.672030561151,51,51,DON-0255,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.6977303365355,46.6693821202652,52,52,DON-0260,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7192049824726,46.6710214162009,53,53,DON-0265,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7206045963214,46.6725433384566,54,54,DON-0270,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7213793169101,46.6731637958805,55,55,DON-0275,Projet de base,ERL1004B330AGRAYILR,Absence,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7221648511823,46.6738022104589,56,56,DON-0280,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7225470851344,46.6741074718261,57,57,DON-0285,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7228094355097,46.6743122057561,58,58,DON-0290,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7233392397303,46.6747334280868,59,59,DON-0295,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.6966525434963,46.6691333537968,60,60,DON-0300,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.6989397901469,46.6695580407643,61,61,DON-0305,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7072219514138,46.6722414967781,62,62,DON-0310,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7063074740253,46.6705946700501,63,63,DON-0315,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7082394063792,46.6719268414347,64,64,DON-0320,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7089960890838,46.6716470932926,65,65,DON-0325,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7096858050659,46.6714449563959,66,66,DON-0330,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7111751834989,46.6709151404659,67,67,DON-0335,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.708727971176,46.6712181523232,68,68,DON-0340,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.7078551583458,46.6707332974195,69,69,DON-0345,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.7065585296302,46.6702633196231,70,70,DON-0350,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.7073411834744,46.6710318101621,71,71,DON-0355,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7004086916338,46.6696559828775,72,72,DON-0360,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7054659088248,46.6698223028571,73,73,DON-0365,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.7045553016252,46.6701491905148,74,74,DON-0370,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.7032428351564,46.6704241331746,75,75,DON-0375,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.7025320843791,46.6698425551304,76,76,DON-0380,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.7018689256991,46.6693341124574,77,77,DON-0385,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.7010928034166,46.6690837128664,78,78,DON-0390,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E09,"10",31 W Type 2,./0.png
+-71.7012113874534,46.6697248652139,79,79,DON-0395,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.732837037168,46.6753542545189,80,80,DON-0400,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7323877099091,46.6744179259617,81,81,DON-0405,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7329060883677,46.6745063413918,82,82,DON-0410,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7440118329832,46.674084746874,83,83,DON-0415,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19,"15",47 W Type 2,./0.png
+-71.7396153822833,46.6729970460501,84,84,DON-0420,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7400922938059,46.6732674918128,85,85,DON-0425,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7412868883733,46.6734576212115,86,86,DON-0430,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7414811376418,46.6734932358835,87,87,DON-0435,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7418474965875,46.6735535432394,88,88,DON-0440,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7421960452454,46.6736040321647,89,89,DON-0445,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7429425068921,46.6737163938943,90,90,DON-0450,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7443303126736,46.6745201703848,91,91,DON-0455,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19,"15",47 W Type 2,./0.png
+-71.738461089888,46.6728396427813,92,92,DON-0460,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7407335426989,46.6737378469331,93,93,DON-0465,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.7409565027802,46.6738994602619,94,94,DON-0470,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.741407826083,46.6742291234972,95,95,DON-0475,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7317001316539,46.6830842414394,96,96,DON-0480,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.74208678784,46.6747468036538,97,97,DON-0485,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7423676311705,46.6749291556706,98,98,DON-0490,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7430150429637,46.6754004593223,99,99,DON-0495,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7390721309194,46.6728814139804,100,100,DON-0500,Projet de base,ERL1006B330AGRAYILR,Sectionneur,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.738649342376,46.6732816117001,101,101,DON-0505,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.7427722830748,46.6758737692579,102,102,DON-0510,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7343554916512,46.6732402452754,103,103,DON-0515,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7319720937075,46.6740287506547,104,104,DON-0520,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19,"15",47 W Type 2,./0.png
+-71.7320801520692,46.6738652066481,105,105,DON-0525,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7324040087869,46.6737619651899,106,106,DON-0530,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7327641791496,46.6736481607927,107,107,DON-0535,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7328224939231,46.6738192028925,108,108,DON-0540,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.732355104979,46.6739533667036,109,109,DON-0545,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.733653051868,46.6733575756151,110,110,DON-0550,Projet de base,ERL1006B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7348120526479,46.6731619102557,111,111,DON-0555,Projet de base,ERL1006B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7380910340396,46.6728495460209,112,112,DON-0560,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7352027469205,46.6731062544472,113,113,DON-0565,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7356449912575,46.6730327993206,114,114,DON-0570,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7358532553624,46.6729945595585,115,115,DON-0575,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.73622923549,46.6729209596192,116,116,DON-0580,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7369304397397,46.6728789669298,117,117,DON-0585,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7373506416861,46.6728637164118,118,118,DON-0590,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7376927649883,46.6728565351472,119,119,DON-0595,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7432890141642,46.6756028905724,120,120,DON-0600,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7425146702184,46.6756628848754,121,121,DON-0605,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7338234291085,46.6746983025297,122,122,DON-0610,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7355998849823,46.6737259564388,123,123,DON-0615,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7380612084932,46.6737186311438,124,124,DON-0620,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7386030570486,46.674116152359,125,125,DON-0625,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7398833348419,46.6737668742946,126,126,DON-0630,Projet de base,ERLH010B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E31, ,82 W Type 2,./0.png
+-71.739507723676,46.6734961939735,127,127,DON-0635,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.739097106737,46.6731864176187,128,128,DON-0640,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7389288222977,46.6730759216334,129,129,DON-0645,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.7350890915267,46.67337829993,130,130,DON-0650,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7362559099313,46.6742047121766,131,131,DON-0655,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7361493732219,46.6731856596023,132,132,DON-0660,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7367056564035,46.6745305099874,133,133,DON-0665,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7371965095919,46.6749059317299,134,134,DON-0670,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7366438128873,46.675265210566,135,135,DON-0675,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7360135733958,46.6748032740803,136,136,DON-0680,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7352766032578,46.6742855877681,137,137,DON-0685,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7348930395928,46.6740059464175,138,138,DON-0690,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7342558645906,46.6744156208219,139,139,DON-0695,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.737407028133,46.6732518961417,140,140,DON-0700,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7364452552639,46.6733985901074,141,141,DON-0705,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7421574379473,46.6754010086119,142,142,DON-0710,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7403751431218,46.6762632660991,143,143,DON-0715,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14,"10",31 W Type 2,./0.png
+-71.7417881376512,46.675149712765,144,144,DON-0720,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7414654480662,46.674920617635,145,145,DON-0725,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.740903409828,46.6747077216286,146,146,DON-0730,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7407387463497,46.6743886159709,147,147,DON-0735,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7404782881149,46.6742074028358,148,148,DON-0740,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7401468402062,46.6739695965534,149,149,DON-0745,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA,cablageRemplace, ,portefusible simple, ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.7406366125984,46.6764478629059,150,150,DON-0750,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.7401124932002,46.6760673870377,151,151,DON-0755,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7368834799766,46.6737331593907,152,152,DON-0760,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7398364497771,46.6758640619959,153,153,DON-0765,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7394193741074,46.6755673202188,154,154,DON-0770,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7391550307834,46.6753656760135,155,155,DON-0775,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7387840872102,46.6750981330548,156,156,DON-0780,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7384925803872,46.6748891845987,157,157,DON-0785,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7379920364904,46.6745545446181,158,158,DON-0790,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7374971674474,46.674172154077,159,159,DON-0795,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7277604234413,46.6735751873421,160,160,DON-0800,Projet de base,ERL1004B330AGRAYILR,Absence,"30", ,MSP, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7265391542167,46.6732156761818,161,161,DON-0805,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7304592552253,46.6741043832072,162,162,DON-0810,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19,"15",47 W Type 2,./0.png
+-71.726116291866,46.6729421647852,163,163,DON-0815,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.6817782478933,46.6771052325789,164,164,DON-0820,Projet de base,ERL1006C330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.6827880591545,46.6768938555381,165,165,DON-0825,Projet de base,ERL1006C330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.6837237245706,46.6766901227336,166,166,DON-0830,Projet de base,ERL1006C330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.684641385266,46.6764576713386,167,167,DON-0835,Projet de base,ERL1006C330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.6855048504173,46.6762147225844,168,168,DON-0840,Projet de base,ERL1006C330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.6861448583243,46.6760360253037,169,169,DON-0845,Projet de base,ERL1006C330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.6868559999204,46.67592417685,170,170,DON-0850,Projet de base,ERL1006C330AGRAYILR,Sectionneur,"25", ,HQ, ,NA,cablageRemplace, , , ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.6874859595156,46.6758400090495,171,171,DON-0855,Projet de base,ERL1006C330AGRAYILR,Sectionneur,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.688130442396,46.6758134267697,172,172,DON-0860,Projet de base,ERL1006C330AGRAYILR,Sectionneur,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.6884020214266,46.6950853339285,173,173,DON-0865,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7290100328213,46.6835070341919,174,174,DON-0870,Projet de base,ERL1006C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_02, ,47 W Type 3,./0.png
+-71.7293873106229,46.6835744371955,175,175,DON-0875,Projet de base,ERL1006C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_02, ,47 W Type 3,./0.png
+-71.7298350077942,46.6836372116942,176,176,DON-0880,Projet de base,ERL1006C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_02, ,47 W Type 3,./0.png
+-71.7302789778535,46.6837077103798,177,177,DON-0885,Projet de base,ERL1006C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_02, ,47 W Type 3,./0.png
+-71.7307244642955,46.6837634202844,178,178,DON-0890,Projet de base,ERL1006C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_02, ,47 W Type 3,./0.png
+-71.7311818448839,46.6838345332358,179,179,DON-0895,Projet de base,ERL1006C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_02, ,47 W Type 3,./0.png
+-71.7316232779819,46.6839022002575,180,180,DON-0900,Projet de base,ERL1006C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_02, ,47 W Type 3,./0.png
+-71.6807916412398,46.6772151197982,181,181,DON-0905,Projet de base,ERL1006C330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.6798775579527,46.6773190856698,182,182,DON-0910,Projet de base,ERL1006C330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.6789956244595,46.6774328180226,183,183,DON-0915,Projet de base,ERL1006C330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.6709770605738,46.6809857227589,184,184,DON-0920,Projet de base,ERL1006C330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.7073273002651,46.6789357065452,185,185,DON-0925,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.6965072267048,46.6772145531817,186,186,DON-0930,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA,cablageRemplace, , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.6949703975278,46.6769245640735,187,187,DON-0935,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.6888637215957,46.6758031855771,188,188,DON-0940,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.6884156085999,46.6756808931788,189,189,DON-0945,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.6695712056859,46.6820174667476,190,190,DON-0950,Projet de base,ERL1006C330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E111,"15",47 W Type 3,./0.png
+-71.6703982044586,46.6814628738477,191,191,DON-0955,Projet de base,ERL1006C330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, ,fusibleSimpleRemplace, , ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.6717618046649,46.680369955685,192,192,DON-0960,Projet de base,ERL1006C330AGRAYILR,Absence,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.6780386578875,46.6775277672468,193,193,DON-0965,Projet de base,ERL1006C330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.6723499741895,46.679884994703,194,194,DON-0970,Projet de base,ERL1006C330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.6728848911574,46.6794702287833,195,195,DON-0975,Projet de base,ERL1006C330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.6735316249337,46.6790185130665,196,196,DON-0980,Projet de base,ERL1006C330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.6742781577223,46.6785953802068,197,197,DON-0985,Projet de base,ERL1006C330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.6752238397316,46.678155898668,198,198,DON-0990,Projet de base,ERL1006C330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.6761277077235,46.6778909490626,199,199,DON-0995,Projet de base,ERL1006C330AGRAYILR,Absence,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.6770628415451,46.6776801833174,200,200,DON-1000,Projet de base,ERL1006C330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E111, ,47 W Type 3,./0.png
+-71.7320812281184,46.6839635312902,201,201,DON-1005,Projet de base,ERL1006C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_02, ,47 W Type 3,./0.png
+-71.7325218165896,46.6840221307898,202,202,DON-1010,Projet de base,ERL1006C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_02, ,47 W Type 3,./0.png
+-71.7329754786058,46.684091922628,203,203,DON-1015,Projet de base,ERL1006C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_02, ,47 W Type 3,./0.png
+-71.7199577456904,46.6811013239727,204,204,DON-1020,Projet de base,ERLH010B330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_01, ,82 W Type 2,./0.png
+-71.7320820053494,46.6796563712145,205,205,DON-1025,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7243420747239,46.6818844501003,206,206,DON-1030,Projet de base,ERLH010B330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_01,"25",82 W Type 2,./0.png
+-71.7236066479555,46.6817485260315,207,207,DON-1035,Projet de base,ERLH010B330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_01, ,82 W Type 2,./0.png
+-71.7228606968847,46.6816490572055,208,208,DON-1040,Projet de base,ERLH010B330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_01, ,82 W Type 2,./0.png
+-71.7221419983886,46.6814867879857,209,209,DON-1045,Projet de base,ERLH010B330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_01,"25",82 W Type 2,./0.png
+-71.7214084952816,46.6813556883477,210,210,DON-1050,Projet de base,ERLH010B330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_01, ,82 W Type 2,./0.png
+-71.7206843946952,46.6812271458132,211,211,DON-1055,Projet de base,ERLH010B330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_01, ,82 W Type 2,./0.png
+-71.7192293764475,46.6809711119731,212,212,DON-1060,Projet de base,ERLH010B330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_01, ,82 W Type 2,./0.png
+-71.7328124867201,46.6799888941761,213,213,DON-1065,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7184926497625,46.6808233967285,214,214,DON-1070,Projet de base,ERLH010B330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_01, ,82 W Type 2,./0.png
+-71.7177870047618,46.6807189150567,215,215,DON-1075,Projet de base,ERLH010B330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_01, ,82 W Type 2,./0.png
+-71.7170594086562,46.6805929805283,216,216,DON-1080,Projet de base,ERLH010B330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_01, ,82 W Type 2,./0.png
+-71.7119912110162,46.6793758238809,217,217,DON-1085,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7126535518089,46.6794876008564,218,218,DON-1090,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7510511028479,46.6787166282437,219,219,DON-1095,Projet de base,ERL1006B330AGRAYILR, ,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_03, ,47 W Type 2,./0.png
+-71.7517571501647,46.6786255277045,220,220,DON-1100,Projet de base,ERL1006B330AGRAYILR, ,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_03, ,47 W Type 2,./0.png
+-71.7321489821391,46.68000415006,221,221,DON-1105,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7325554491148,46.6803487337249,222,222,DON-1110,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7338698309048,46.6842202348051,223,223,DON-1115,Projet de base,ERL1006C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_02, ,47 W Type 3,./0.png
+-71.7361725946166,46.6848955913027,224,224,DON-1120,Projet de base,ERL1006C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_02, ,47 W Type 3,./0.png
+-71.7335818807747,46.6843831863548,225,225,DON-1125,Projet de base,ERL1006C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_02, ,47 W Type 3,./0.png
+-71.7334178602778,46.6841572504615,226,226,DON-1130,Projet de base,ERL1006C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_02, ,47 W Type 3,./0.png
+-71.734363604659,46.684289770305,227,227,DON-1135,Projet de base,ERL1006C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_02, ,47 W Type 3,./0.png
+-71.734829002571,46.6843675773762,228,228,DON-1140,Projet de base,ERL1006C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_02, ,47 W Type 3,./0.png
+-71.7353074251287,46.684434777898,229,229,DON-1145,Projet de base,ERL1006C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_02, ,47 W Type 3,./0.png
+-71.7357414589364,46.6845061867601,230,230,DON-1150,Projet de base,ERL1006C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_02, ,47 W Type 3,./0.png
+-71.7362990704496,46.6845713708752,231,231,DON-1155,Projet de base,ERL1006C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_02, ,47 W Type 3,./0.png
+-71.7366761283794,46.6848152652599,232,232,DON-1160,Projet de base,ERL1006C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_02, ,47 W Type 3,./0.png
+-71.7329783567911,46.680587828079,233,233,DON-1165,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,MSP, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7322304312607,46.6792387948511,234,234,DON-1170,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7325231495052,46.6793629091157,235,235,DON-1175,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14,"10",31 W Type 2,./0.png
+-71.7329546208554,46.6792511206541,236,236,DON-1180,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7333545885464,46.679542771182,237,237,DON-1185,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7337758521795,46.6798771525388,238,238,DON-1190,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7339619433758,46.6802356600047,239,239,DON-1195,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7334928779621,46.6804699542425,240,240,DON-1200,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7066363987199,46.6786106754024,241,241,DON-1205,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7405056590743,46.6713427140999,242,242,DON-1210,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.7395931538016,46.6711884394798,243,243,DON-1215,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.7305365877335,46.6732447513916,244,244,DON-1220,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7315453228137,46.6717983482586,245,245,DON-1225,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7319299349113,46.6720866471298,246,246,DON-1230,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7323660037265,46.6724036288319,247,247,DON-1235,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7328113088219,46.6727497369076,248,248,DON-1240,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7331929469888,46.6729973148131,249,249,DON-1245,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7321507268289,46.6735263454666,250,250,DON-1250,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7312885017472,46.6738103173994,251,251,DON-1255,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7301292284256,46.6729400242809,252,252,DON-1260,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7307290634476,46.6712221356088,253,253,DON-1265,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7296286512238,46.6725668934617,254,254,DON-1270,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.729128153976,46.6721644132552,255,255,DON-1275,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7285933327597,46.6717429223342,256,256,DON-1280,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7280953302265,46.671346497949,257,257,DON-1285,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7274398113519,46.6708251489974,258,258,DON-1290,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7269899231307,46.6704682262901,259,259,DON-1295,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7265013406566,46.6700710857109,260,260,DON-1300,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7311603259027,46.6715198568272,261,261,DON-1305,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7302718177647,46.6708643908803,262,262,DON-1310,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7294249637183,46.67111552024,263,263,DON-1315,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7283601164507,46.6730103851852,264,264,DON-1320,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7258406254638,46.6725383861368,265,265,DON-1325,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7254433219284,46.6722282499446,266,266,DON-1330,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7251002212298,46.6719587701501,267,267,DON-1335,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7246160248493,46.6716971170746,268,268,DON-1340,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7244927574853,46.6713451163272,269,269,DON-1345,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7242955415183,46.6710120098935,270,270,DON-1350,Projet de base,ERL1004B330AGRAYILR,Absence,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7283332274571,46.674071839301,271,271,DON-1355,Projet de base,ERL1004B330AGRAYILR,Absence,"30", ,MSP, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7265335160923,46.6714331305142,272,272,DON-1360,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7298461107972,46.6705547390306,273,273,DON-1365,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7263448391659,46.6715741555479,274,274,DON-1370,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7271894477096,46.6710104729854,275,275,DON-1375,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7276783960763,46.6707168645142,276,276,DON-1380,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.728196107948,46.6704072216394,277,277,DON-1385,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.728750681346,46.6702007289371,278,278,DON-1390,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7289527310922,46.6697656331767,279,279,DON-1395,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7292183431481,46.670096399968,280,280,DON-1400,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7286309109182,46.6704869315997,281,281,DON-1405,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7303183752048,46.6717954784948,282,282,DON-1410,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7387682631179,46.6710869265031,283,283,DON-1415,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.7416424999889,46.6727661594391,284,284,DON-1420,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7392057746913,46.6717836469596,285,285,DON-1425,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7395495381286,46.6720382202087,286,286,DON-1430,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7403413901529,46.6719911228867,287,287,DON-1435,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.7407048152736,46.6717739490337,288,288,DON-1440,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.7411487990871,46.6714598630837,289,289,DON-1445,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.7416782709351,46.6719523680355,290,290,DON-1450,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.7420356871158,46.6724726120077,291,291,DON-1455,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.742218411275,46.6726650433354,292,292,DON-1460,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.7384517326917,46.6712237031381,293,293,DON-1465,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.742459005501,46.6729127073509,294,294,DON-1470,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.742715329691,46.673201037812,295,295,DON-1475,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.7430810869988,46.6735298082991,296,296,DON-1480,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E09,"10",31 W Type 2,./0.png
+-71.7414432308895,46.6734233667964,297,297,DON-1485,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.7410294765223,46.6731232731644,298,298,DON-1490,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7404596076761,46.6727059586429,299,299,DON-1495,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7400045674256,46.6723702879075,300,300,DON-1500,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7388680561629,46.6715347129237,301,301,DON-1505,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.7380421090329,46.6716523171539,302,302,DON-1510,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7312913079401,46.6725382219964,303,303,DON-1515,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7367220385125,46.6724781425385,304,304,DON-1520,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7322636891505,46.6732721949245,305,305,DON-1525,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.728877811743,46.6727744692612,306,306,DON-1530,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7360693073432,46.6728010809522,307,307,DON-1535,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7358113076557,46.6726205656404,308,308,DON-1540,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7354072184342,46.6723273692042,309,309,DON-1545,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.736115459294,46.6720432709623,310,310,DON-1550,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7364113556868,46.6722547070811,311,311,DON-1555,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7370203342044,46.6727007511263,312,312,DON-1560,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA,cablageRemplace, ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7397261086478,46.6728823350129,313,313,DON-1565,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.7369128352535,46.671725293901,314,314,DON-1570,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7373499228985,46.6720652636916,315,315,DON-1575,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7378095909936,46.6723948320398,316,316,DON-1580,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7381830625432,46.6726692540584,317,317,DON-1585,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7376819816749,46.6714211152769,318,318,DON-1590,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7390853663594,46.6724127262369,319,319,DON-1595,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7393235789024,46.6725875322874,320,320,DON-1600,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.7309252818594,46.6740913319097,321,321,DON-1605,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7418123069802,46.6745298390774,322,322,DON-1610,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7301946320433,46.6737261467936,323,323,DON-1615,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.7188386629037,46.6758039120916,324,324,DON-1620,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7139361886387,46.6758848676853,325,325,DON-1625,Projet de base,ERL1004B330AGRAYILR,Absence,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7144185061775,46.6762698592167,326,326,DON-1630,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"30", ,MSP, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7149672114066,46.6766946549378,327,327,DON-1635,Projet de base,ERL1004B330AGRAYILR,Absence,"30", ,MSP, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7152523910789,46.676922397612,328,328,DON-1640,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7157814053097,46.6773550286283,329,329,DON-1645,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7160974271447,46.6776279826693,330,330,DON-1650,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7164073631168,46.6778958499279,331,331,DON-1655,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.719512232012,46.6758812361896,332,332,DON-1660,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7129209091379,46.6760218145387,333,333,DON-1665,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7202419568504,46.6759381809177,334,334,DON-1670,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.720925255323,46.6760717176017,335,335,DON-1675,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7214089848509,46.6763614607879,336,336,DON-1680,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7217554058476,46.6767184213976,337,337,DON-1685,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7223537957804,46.6767098151454,338,338,DON-1690,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7221200864387,46.6770838955999,339,339,DON-1695,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7216864775199,46.6773903921355,340,340,DON-1700,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7132779157693,46.6751192737808,341,341,DON-1705,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.713411773631,46.6754718127609,342,342,DON-1710,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7150220556174,46.677288506969,343,343,DON-1715,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7141302809388,46.6778262687166,344,344,DON-1720,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7139166566444,46.6768132963556,345,345,DON-1725,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7144308475627,46.6772227408829,346,346,DON-1730,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7150930084771,46.6777394311531,347,347,DON-1735,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7154396851121,46.6780193082672,348,348,DON-1740,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7157664381937,46.6782773442543,349,349,DON-1745,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7161173829941,46.678552672005,350,350,DON-1750,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7164402408674,46.6788403006588,351,351,DON-1755,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7162702622143,46.679212449842,352,352,DON-1760,Projet de base,ERL1004B330AGRAYILR,Absence,"30", ,MSP, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7168487466786,46.6796408018911,353,353,DON-1765,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7161097774413,46.6794952156644,354,354,DON-1770,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7156843386206,46.679384618798,355,355,DON-1775,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Petite potence,E11, ,31 W Type 2,./0.png
+-71.7155405097686,46.6791457960189,356,356,DON-1780,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Petite potence,E11, ,31 W Type 2,./0.png
+-71.715197370099,46.678878269221,357,357,DON-1785,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Petite potence,E11, ,31 W Type 2,./0.png
+-71.7148554833521,46.6786086372535,358,358,DON-1790,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Petite potence,E11, ,31 W Type 2,./0.png
+-71.7147394687399,46.6782220966539,359,359,DON-1795,Projet de base,ERL1004B330AGRAYILR,Absence,"30", ,MSP, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7211253342234,46.6774295711644,360,360,DON-1800,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7205688997522,46.677358179212,361,361,DON-1805,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7194260258686,46.677243781139,362,362,DON-1810,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7328177559546,46.6784557678759,363,363,DON-1815,Projet de base,ERLH010B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E99,"25",82 W Type 2,./0.png
+-71.7340892458617,46.6776129358129,364,364,DON-1820,Projet de base,ERLH010B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E33, ,82 W Type 2,./0.png
+-71.7345440112092,46.6773102690951,365,365,DON-1825,Projet de base,ERLH010B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E33, ,82 W Type 2,./0.png
+-71.7348058906401,46.6771377601613,366,366,DON-1830,Projet de base,ERLH010B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E33, ,82 W Type 2,./0.png
+-71.7350733372991,46.6769628675796,367,367,DON-1835,Projet de base,ERLH010B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E33, ,82 W Type 2,./0.png
+-71.7354516961697,46.6767005480185,368,368,DON-1840,Projet de base,ERLH010B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E33, ,82 W Type 2,./0.png
+-71.7357428373914,46.676529999806,369,369,DON-1845,Projet de base,ERLH010B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E33, ,82 W Type 2,./0.png
+-71.736085904071,46.6762842038492,370,370,DON-1850,Projet de base,ERLH010B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E31, ,82 W Type 2,./0.png
+-71.7363386839433,46.6759675043255,371,371,DON-1855,Projet de base,ERLH010B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E31, ,82 W Type 2,./0.png
+-71.7366495431912,46.6758072461444,372,372,DON-1860,Projet de base,ERLH010B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E31, ,82 W Type 2,./0.png
+-71.7370758486135,46.6755119464344,373,373,DON-1865,Projet de base,ERLH010B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E31, ,82 W Type 2,./0.png
+-71.7375806683711,46.6751704741442,374,374,DON-1870,Projet de base,ERLH010B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E31, ,82 W Type 2,./0.png
+-71.737978842108,46.6749198604982,375,375,DON-1875,Projet de base,ERLH010B330AGRAYILR,Absence,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E31, ,82 W Type 2,./0.png
+-71.7382502397492,46.6747245914144,376,376,DON-1880,Projet de base,ERLH010B330AGRAYILR,Absence,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E31, ,82 W Type 2,./0.png
+-71.7386323585076,46.6744822426458,377,377,DON-1885,Projet de base,ERLH010B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E31, ,82 W Type 2,./0.png
+-71.7388808715989,46.674321050958,378,378,DON-1890,Projet de base,ERLH010B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E31, ,82 W Type 2,./0.png
+-71.7332664550969,46.6781596168883,379,379,DON-1895,Projet de base,ERLH010B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E99,"25",82 W Type 2,./0.png
+-71.7323760027016,46.6787496461773,380,380,DON-1900,Projet de base,ERLH010B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E99,"25",82 W Type 2,./0.png
+-71.7185099952175,46.6771574152277,381,381,DON-1905,Projet de base,ERL1004B330AGRAYILR,Absence,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7320216355428,46.678995301538,382,382,DON-1910,Projet de base,ERLH010B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E99,"25",82 W Type 2,./0.png
+-71.7186502122687,46.6774273977665,383,383,DON-1915,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.719194652333,46.6777280436574,384,384,DON-1920,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7199659238921,46.6778048988443,385,385,DON-1925,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.7204779833605,46.6778554386419,386,386,DON-1930,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.7210770974908,46.6776510337863,387,387,DON-1935,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7206838306397,46.6780361642031,388,388,DON-1940,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7198477506792,46.6782502108981,389,389,DON-1945,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7192827639534,46.6785658188878,390,390,DON-1950,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7186299671524,46.6787166539188,391,391,DON-1955,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7294050553659,46.6811715317863,392,392,DON-1960,Projet de base,ERL2018B330AGRAYILR,NA,"30", ,MSP, ,ODC1, , , , ,Cobra,Moyenne potence,E69, ,136 W Type 2,./0.png
+-71.7296826350408,46.6806350932532,393,393,DON-1965,Projet de base,ERL2018B330AGRAYILR,NA,"30", ,MSP, ,ODC1, , , , ,Cobra,Moyenne potence,E69, ,136 W Type 2,./0.png
+-71.7300670813362,46.6802937336239,394,394,DON-1970,Projet de base,ERL2018B330AGRAYILR,NA,"30", ,MSP, ,ODC1, , , , ,Cobra,Moyenne potence,E99, ,136 W Type 2,./0.png
+-71.73067787933,46.6798572426996,395,395,DON-1975,Projet de base,ERL2018B330AGRAYILR,NA,"30", ,MSP, ,ODC1, , , , ,Cobra,Moyenne potence,E99, ,136 W Type 2,./0.png
+-71.7311543398061,46.679545266014,396,396,DON-1980,Projet de base,ERL2018B330AGRAYILR,NA,"30", ,MSP, ,ODC1, , , , ,Cobra,Moyenne potence,E99, ,136 W Type 2,./0.png
+-71.7315868899966,46.6792599349396,397,397,DON-1985,Projet de base,ERLH010B330AGRAYILR,NA,"30", ,MSP, ,NA,cablageRemplace, ,portefusible simple, ,Cobra,Moyenne potence,E99,"25",82 W Type 2,./0.png
+-71.7133889106515,46.6764021381342,398,398,DON-1990,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7124107280085,46.6756173462297,399,399,DON-1995,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7405410264932,46.6735031494983,400,400,DON-2000,Projet de base,ERLH010B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E31, ,82 W Type 2,./0.png
+-71.7163867701647,46.684531090485,401,401,DON-2005,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7225231101692,46.6826637700669,402,402,DON-2010,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7195612026449,46.684386576889,403,403,DON-2015,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"30",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7190561311854,46.6844070493425,404,404,DON-2020,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7184781243065,46.6844456059034,405,405,DON-2025,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , ,portefusible simple, ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7179464756894,46.6844637987259,406,406,DON-2030,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7173780482178,46.6844877334197,407,407,DON-2035,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7170218619226,46.6845052604989,408,408,DON-2040,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7157849476195,46.6845575818616,409,409,DON-2045,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7117802847441,46.6751037870138,410,410,DON-2050,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7152918387505,46.6845851025175,411,411,DON-2055,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7147382069988,46.6846819109337,412,412,DON-2060,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7156364920701,46.6825041222703,413,413,DON-2065,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7161064900036,46.6824828042339,414,414,DON-2070,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7165552370437,46.6824525785905,415,415,DON-2075,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7171762192987,46.6823939437939,416,416,DON-2080,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7177074302804,46.6824080122689,417,417,DON-2085,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7229725795467,46.6827209592455,418,418,DON-2090,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7233572032644,46.6828548583445,419,419,DON-2095,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7237051582254,46.6831277736506,420,420,DON-2100,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7239932060452,46.6833323989169,421,421,DON-2105,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7267755674183,46.6828994531189,422,422,DON-2110,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7268954486334,46.6823120969844,423,423,DON-2115,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7268542185273,46.6825573387521,424,424,DON-2120,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7267012924174,46.683294364286,425,425,DON-2125,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7266361397274,46.6835473755358,426,426,DON-2130,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.726400735121,46.6841355458319,427,427,DON-2135,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7260488277167,46.6843609674769,428,428,DON-2140,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7256941173024,46.6845774942504,429,429,DON-2145,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7253455538217,46.6848002157696,430,430,DON-2150,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7250167587688,46.6849553196711,431,431,DON-2155,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7245338996536,46.6848330477516,432,432,DON-2160,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7243763875538,46.6845437421819,433,433,DON-2165,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7243556147543,46.6842171403944,434,434,DON-2170,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7243336674129,46.6838895732149,435,435,DON-2175,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7242338425474,46.6835518903456,436,436,DON-2180,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E21, ,47 W Type 2,./0.png
+-71.7181938864677,46.6824597506512,437,437,DON-2185,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7187143438461,46.6825443936258,438,438,DON-2190,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7191405657952,46.6826853364464,439,439,DON-2195,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7198701455539,46.6752181820975,440,440,DON-2200,Projet de base,ERL1004C330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E80, ,31 W Type 3,./0.png
+-71.7181907010203,46.6750108029191,441,441,DON-2205,Projet de base,ERL1004C330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E80, ,31 W Type 3,./0.png
+-71.7173932614986,46.6749306974052,442,442,DON-2210,Projet de base,ERL1004C330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E80, ,31 W Type 3,./0.png
+-71.7166242329303,46.6748704907979,443,443,DON-2215,Projet de base,ERL1004C330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E80, ,31 W Type 3,./0.png
+-71.7158882184095,46.6748058517891,444,444,DON-2220,Projet de base,ERL1004C330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E80, ,31 W Type 3,./0.png
+-71.7152119924911,46.6747564018217,445,445,DON-2225,Projet de base,ERL1004C330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E80, ,31 W Type 3,./0.png
+-71.7145329505203,46.6746711079501,446,446,DON-2230,Projet de base,ERL1004C330AGRAYILR,Sectionneur,"30", ,MSP, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E80, ,31 W Type 3,./0.png
+-71.7135914189913,46.6747812181423,447,447,DON-2235,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7128050040884,46.6747533874173,448,448,DON-2240,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.704531016949,46.6767383054072,449,449,DON-2245,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.703588189876,46.6762531666494,450,450,DON-2250,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7029951485093,46.6757714997981,451,451,DON-2255,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7023314739046,46.6752797886803,452,452,DON-2260,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7016621741243,46.6747637877315,453,453,DON-2265,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7010909903551,46.6743193489691,454,454,DON-2270,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7004837996363,46.6738674292248,455,455,DON-2275,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7188960170289,46.6751170696549,456,456,DON-2280,Projet de base,ERL1004C330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E80, ,31 W Type 3,./0.png
+-71.7206207917003,46.6752876523533,457,457,DON-2285,Projet de base,ERL1004C330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E80, ,31 W Type 3,./0.png
+-71.719384336806,46.6829845962094,458,458,DON-2290,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7213218456018,46.6754553960946,459,459,DON-2295,Projet de base,ERL1004C330AGRAYILR,PorteFusible,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E80, ,31 W Type 3,./0.png
+-71.7194343889411,46.6833420909569,460,460,DON-2300,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7194825013677,46.6836830695441,461,461,DON-2305,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7194983683536,46.6840221597012,462,462,DON-2310,Projet de base,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,MSP, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7169164041504,46.6820099977819,463,463,DON-2315,Projet de base,ERL1H06B330AGRAYILR,NA,"30",347V,MSP, ,ODC1, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7169225734211,46.6816229553163,464,464,DON-2320,Projet de base,ERL1H06B330AGRAYILR,NA,"30",347V,MSP, ,ODC1, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7170208745919,46.6812187154724,465,465,DON-2325,Projet de base,ERL1H06B330AGRAYILR,NA,"30",347V,MSP, ,ODC1, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.717196658732,46.6808747639132,466,466,DON-2330,Projet de base,ERL1H06B330AGRAYILR,NA,"30",347V,MSP, ,ODC1, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7174249586656,46.6804560369737,467,467,DON-2335,Projet de base,ERLH010B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E31, ,82 W Type 2,./0.png
+-71.7173741610293,46.6800590995767,468,468,DON-2340,Projet de base,ERL1004B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7231946857959,46.675758703353,469,469,DON-2345,Projet de base,ERL1004B330AGRAYILR,NA,"30", ,MSP, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7231042578116,46.6753735546317,470,470,DON-2350,Projet de base,ERL1004B330AGRAYILR,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7233119501995,46.6761428885025,471,471,DON-2355,Projet de base,ERL1004C330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E80, ,31 W Type 3,./0.png
+-71.7224691908739,46.6760903892343,472,472,DON-2360,Projet de base,ERL1004C330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E80, ,31 W Type 3,./0.png
+-71.721908539282,46.6750425481781,473,473,DON-2365,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.7219252162803,46.6757732368531,474,474,DON-2370,Projet de base,ERL1004C330AGRAYILR,Sectionneur,"30", ,MSP, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E80, ,31 W Type 3,./0.png
+-71.7403335893057,46.6736564142923,475,475,DON-2375,Projet de base,ERLH010B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E31, ,82 W Type 2,./0.png
+-71.7199854847305,46.6772999491987,476,476,DON-2380,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7394943629618,46.6739025998181,477,477,DON-2385,Projet de base,ERLH010B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E31, ,82 W Type 2,./0.png
+-71.6908846077501,46.674035992323,478,478,DON-2390,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.74047922442,46.6773549199474,479,479,DON-2395,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.6888230068067,46.6755376082123,480,480,DON-2400,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.6889386326986,46.6751917753407,481,481,DON-2405,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.6896824351551,46.6750654405929,482,482,DON-2410,Projet de base,ERL1004C330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E12, ,31 W Type 3,./0.png
+-71.6906660408932,46.6747824916726,483,483,DON-2415,Projet de base,ERL1004C330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E12, ,31 W Type 3,./0.png
+-71.6911197635551,46.6746567844495,484,484,DON-2420,Projet de base,ERL1004C330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E12, ,31 W Type 3,./0.png
+-71.6909257669686,46.6744552520726,485,485,DON-2425,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.6906529325164,46.6737390153379,486,486,DON-2430,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.739000122776,46.6762072776511,487,487,DON-2435,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.6903076852104,46.67349998674,488,488,DON-2440,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.6896726969814,46.673311664243,489,489,DON-2445,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.6915479333782,46.674521363311,490,490,DON-2450,Projet de base,ERL1004C330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E12, ,31 W Type 3,./0.png
+-71.6935159008067,46.6741474466735,491,491,DON-2455,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.6946821609235,46.6740650586642,492,492,DON-2460,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.6956864507406,46.6740088719786,493,493,DON-2465,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.6964756200439,46.6739485043971,494,494,DON-2470,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7395573439688,46.6766137863826,495,495,DON-2475,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7385389798034,46.6758729196808,496,496,DON-2480,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7392147422188,46.6740835239587,497,497,DON-2485,Projet de base,ERLH010B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E31, ,82 W Type 2,./0.png
+-71.7391823564151,46.6780028321356,498,498,DON-2490,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7342659700726,46.6793214366159,499,499,DON-2495,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7338655709148,46.6790108046062,500,500,DON-2500,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,MSP, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.733467813585,46.6787008912287,501,501,DON-2505,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7367007435053,46.6762249570434,502,502,DON-2510,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7372587948227,46.6766120630142,503,503,DON-2515,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7378166340007,46.6770361179509,504,504,DON-2520,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7383564276638,46.6774043790585,505,505,DON-2525,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7397283377144,46.6783984731146,506,506,DON-2530,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7379171878204,46.6754172656187,507,507,DON-2535,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7399860637629,46.6782341447417,508,508,DON-2540,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7403978475984,46.6779698029109,509,509,DON-2545,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7399403221828,46.6776641738586,510,510,DON-2550,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7394192246397,46.6772625612956,511,511,DON-2555,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7388814870193,46.6768725352237,512,512,DON-2560,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7381219178786,46.6763254004761,513,513,DON-2565,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7375075594718,46.6758729799591,514,514,DON-2570,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.6974904478424,46.6738490993363,515,515,DON-2575,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.6994944344652,46.673731054342,516,516,DON-2580,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7350462651407,46.6799469068497,517,517,DON-2585,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7224970808687,46.6746445121117,518,518,DON-2590,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7163549180888,46.6739146399173,519,519,DON-2595,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7176373127008,46.6739916988176,520,520,DON-2600,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7186662077684,46.674062778989,521,521,DON-2605,Projet de base,ERL1004B330AGRAYILR,Absence,"30", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7197864763948,46.6741470725883,522,522,DON-2610,Projet de base,ERL1004B330AGRAYILR,Absence,"30", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7204467932414,46.6742410953695,523,523,DON-2615,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7210932840613,46.6743259035401,524,524,DON-2620,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7217442970416,46.6744616431185,525,525,DON-2625,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7245377126657,46.6748119906584,526,526,DON-2630,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7132875378432,46.673715313946,527,527,DON-2635,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7254020071252,46.6748285073751,528,528,DON-2640,Projet de base,ERL1004B330AGRAYILR,Absence,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.725984626427,46.6748269883495,529,529,DON-2645,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7268802563708,46.6748351582685,530,530,DON-2650,Projet de base,ERL1004B330AGRAYILR,Absence,"30", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7277560725869,46.6747678356257,531,531,DON-2655,Projet de base,ERL1004B330AGRAYILR,Absence,"30", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7287162508255,46.6744484216796,532,532,DON-2660,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7291088892827,46.6743127933384,533,533,DON-2665,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7296726493799,46.6741115398954,534,534,DON-2670,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7148705649315,46.6738056686458,535,535,DON-2675,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7125525866735,46.6736776385774,536,536,DON-2680,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7003030506463,46.6737127696858,537,537,DON-2685,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7062244980828,46.6737054473282,538,538,DON-2690,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7014570556957,46.6737465919685,539,539,DON-2695,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7023894661052,46.6737776978951,540,540,DON-2700,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7035142197561,46.6738347708681,541,541,DON-2705,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.7044908357248,46.6738832944827,542,542,DON-2710,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E09,"10",31 W Type 2,./0.png
+-71.7054041931641,46.6739513485763,543,543,DON-2715,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.7060815242052,46.6738767985218,544,544,DON-2720,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.7069886611611,46.6738201916362,545,545,DON-2725,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E09, ,31 W Type 2,./0.png
+-71.7050327740552,46.6737047976618,546,546,DON-2730,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7115499286092,46.6736452667404,547,547,DON-2735,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7038518852736,46.6737078505645,548,548,DON-2740,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7074531763523,46.6737010703004,549,549,DON-2745,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7082820489014,46.673639644435,550,550,DON-2750,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7090509766435,46.6736193005367,551,551,DON-2755,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.70895514808,46.6730291595192,552,552,DON-2760,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7100723828645,46.6736260047763,553,553,DON-2765,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7107012433632,46.6736322984008,554,554,DON-2770,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.734660640791,46.6796370124302,555,555,DON-2775,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.6983569649564,46.6737782296771,556,556,DON-2780,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7392272130079,46.6789011119194,557,557,DON-2785,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.738596533949,46.6780826810334,558,558,DON-2790,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.737646254054,46.6786351280642,559,559,DON-2795,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7368297668709,46.6791639746712,560,560,DON-2800,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7363591245997,46.6796626663134,561,561,DON-2805,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7357104911325,46.680090055301,562,562,DON-2810,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7350145007396,46.6805283977968,563,563,DON-2815,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.73869568983,46.678696207388,564,564,DON-2820,Projet de base,ERL1004B330AGRAYILR,Absence,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7343257158452,46.6808729973997,565,565,DON-2825,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7335778158793,46.6811305646995,566,566,DON-2830,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7329377099064,46.6813177432928,567,567,DON-2835,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7322885954,46.6814196673848,568,568,DON-2840,Projet de base,ERL1006B330AGRAYILR,Absence,"30", ,HQ, ,ODC1, , , , ,Cobra,Moyenne potence,E11, ,47 W Type 2,./0.png
+-71.7313714985459,46.6814935442627,569,569,DON-2845,Projet de base,ERL1006B330AGRAYILR,Absence,"25", ,HQ, ,ODC1, , , , ,Cobra,Moyenne potence,E49, ,47 W Type 2,./0.png
+-71.7307644022419,46.6814764312098,570,570,DON-2850,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,ODC1, , ,portefusible simple, ,Cobra,Moyenne potence,E49, ,47 W Type 2,./0.png
+-71.7303642301571,46.6814593157816,571,571,DON-2855,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"30", ,HQ, ,ODC1, , , , ,Cobra,Moyenne potence,E49, ,47 W Type 2,./0.png
+-71.7298000702044,46.681423480727,572,572,DON-2860,Projet de base,ERL1006B330AGRAYILR,PorteFusible,"30", ,HQ, ,ODC1, , ,portefusible simple, ,Cobra,Moyenne potence,E50, ,47 W Type 2,./0.png
+-71.7312178316753,46.6801934408186,573,573,DON-2865,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E79, ,31 W Type 2,./0.png
+-71.7381562056115,46.6782994214908,574,574,DON-2870,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7389098796965,46.6778038890585,575,575,DON-2875,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7319724094257,46.6808253326805,576,576,DON-2880,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E79, ,31 W Type 2,./0.png
+-71.7392741814487,46.6775740143992,577,577,DON-2885,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7417958200553,46.6736772760945,578,578,DON-2890,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.7420157108966,46.6738478184083,579,579,DON-2895,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.7425048375609,46.6742157527422,580,580,DON-2900,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7430782464161,46.6746562642094,581,581,DON-2905,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7437403863146,46.6751072223785,582,582,DON-2910,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7442064716165,46.675462688425,583,583,DON-2915,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7436809637398,46.6758892977783,584,584,DON-2920,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7424582178337,46.6760552229439,585,585,DON-2925,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7420679298371,46.6761772388949,586,586,DON-2930,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7416624104503,46.676292778346,587,587,DON-2935,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.741319142632,46.6763940523867,588,588,DON-2940,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.7407709308982,46.6765936120544,589,589,DON-2945,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.7403407315646,46.6768708060902,590,590,DON-2950,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.739969547727,46.6771145012153,591,591,DON-2955,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7397329373485,46.6774684066744,592,592,DON-2960,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7315822162267,46.6805124614481,593,593,DON-2965,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E79, ,31 W Type 2,./0.png
+-71.7524639050609,46.6785522518978,594,594,DON-2970,Projet de base,ERL1006B330AGRAYILR, ,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,S_03, ,47 W Type 2,./0.png
+-71.734374513486,46.6816120073466,595,595,DON-2975,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7359398210228,46.6816387893209,596,596,DON-2980,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7357095284343,46.6804803895878,597,597,DON-2985,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7361688983364,46.6808448664044,598,598,DON-2990,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7368135803466,46.6803429629606,599,599,DON-2995,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7374491284437,46.6799243334744,600,600,DON-3000,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7349317052789,46.6794274133983,601,601,DON-3005,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7373147807401,46.6784219460402,602,602,DON-3010,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7381716922611,46.6790459232446,603,603,DON-3015,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.738097422236,46.679485449501,604,604,DON-3020,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7385209649077,46.6792472746856,605,605,DON-3025,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7348054207703,46.6817923961261,606,606,DON-3030,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,MSP, ,NA,cablageRemplace, ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7388016388488,46.6794054666696,607,607,DON-3035,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7361255618407,46.681966476136,608,608,DON-3040,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7323551486971,46.6811376503887,609,609,DON-3045,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E79, ,31 W Type 2,./0.png
+-71.7355848605761,46.6813359846113,610,610,DON-3050,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7367606662328,46.6780237580441,611,611,DON-3055,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.735897261364,46.6790430333031,612,612,DON-3060,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7351895767914,46.6810193048819,613,613,DON-3065,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7362948009664,46.6787617304826,614,614,DON-3070,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7372526267944,46.6794703013325,615,615,DON-3075,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7355408505462,46.6771215156841,616,616,DON-3080,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7363875046933,46.6769947497739,617,617,DON-3085,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7340854385748,46.6812346073123,618,618,DON-3090,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.736939455546,46.6773932806034,619,619,DON-3095,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7356611002905,46.6823782097016,620,620,DON-3100,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , ,portefusible simple, ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7344526546249,46.6823127229053,621,621,DON-3105,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7377583110838,46.677985660379,622,622,DON-3110,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7338634656123,46.6822636496096,623,623,DON-3115,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7331300656539,46.68173321449,624,624,DON-3120,Projet de base,ERL1004B330AGRAYILR,Sectionneur,"25", ,MSP, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7362075823229,46.6776251783515,625,625,DON-3125,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7316575177873,46.6741152776821,626,626,DON-3130,ODS1,ERL1006B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7057105150002,46.6777559321755,627,627,DON-3135,ODS1,ERL1004B330AGRAYILR,PorteFusible,"30", ,HQ, , , , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7249475251877,46.6817617299757,628,628,DON-3140,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, , , ,./0.png
+-71.7251047975787,46.6819900138705,629,629,DON-3145,Hors-Projet,ERLH010B330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,E31, ,82 W Type 2,./0.png
+-71.7258174759946,46.6818380650271,630,630,DON-3150,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, , , ,./0.png
+-71.7265566430313,46.6821544199009,631,631,DON-3155,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, , , ,./0.png
+-71.7266082071304,46.6818906638301,632,632,DON-3160,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, , , ,./0.png
+-71.7273370089113,46.6819419008356,633,633,DON-3165,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, , , ,./0.png
+-71.7272771822946,46.6822078348929,634,634,DON-3170,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, , , ,./0.png
+-71.7272852641045,46.6737234306575,635,635,DON-3175,Hors-Projet, ,Inconnue,Inconnue, ,pas_un_luminaire, ,NA, , , , , ,Inconnue, , , ,./0.png
+-71.729307791032,46.6737246478427,636,636,DON-3180,ODS1,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E14, ,31 W Type 2,./0.png
+-71.7258547266557,46.6820815245619,637,637,DON-3185,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, , , ,./0.png
+-71.7386780922203,46.672124766013,638,638,DON-3190,ODS1,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.735367868337,46.6752437182976,639,639,DON-3195,ODS1,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.7217068533928,46.681280190363,640,640,DON-3200,Hors-Projet, ,Inconnue,Inconnue, ,pas_un_luminaire, ,NA, , , , , ,Inconnue, , , ,./0.png
+-71.7301184051435,46.6821280039953,641,641,DON-3205,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, , , ,./0.png
+-71.7308591250909,46.6822225237085,642,642,DON-3210,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, , , ,./0.png
+-71.7441548228644,46.6833879893325,643,643,DON-3215,Hors-Projet, ,Inconnue,Inconnue, ,pas_un_luminaire, ,NA, , , , , ,Inconnue, , , ,./0.png
+-71.7438041323895,46.6832188238303,644,644,DON-3220,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, , , ,./0.png
+-71.7432814603239,46.6833250019254,645,645,DON-3225,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, , , ,./0.png
+-71.7427820589472,46.6831566376172,646,646,DON-3230,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, , , ,./0.png
+-71.742303058788,46.6832345983044,647,647,DON-3235,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, , , ,./0.png
+-71.7418174765953,46.6830840398194,648,648,DON-3240,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, , , ,./0.png
+-71.7323065645957,46.6823298643135,649,649,DON-3245,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, , , ,./0.png
+-71.7315871502174,46.6822618735732,650,650,DON-3250,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,E64, ,71 W,./0.png
+-71.7311837294774,46.6824615943997,651,651,DON-3255,Hors-Projet,ERLH010C330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,E71, ,82 W Type 3,./0.png
+-71.730478653077,46.682347163477,652,652,DON-3260,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, , , ,./0.png
+-71.729930369615,46.682308228098,653,653,DON-3265,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, , , ,./0.png
+-71.7294105371211,46.6823724093344,654,654,DON-3270,Hors-Projet, ,Inconnue,Inconnue, ,pas_un_luminaire, ,NA, , , , , ,Inconnue, , , ,./0.png
+-71.729443153411,46.6821058830658,655,655,DON-3275,Hors-Projet,ERLH010B330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,E31,"25",82 W Type 2,./0.png
+-71.7293625645026,46.6823997483911,656,656,DON-3280,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, , , ,./0.png
+-71.7285599425984,46.6822986962304,657,657,DON-3285,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, , , ,./0.png
+-71.7280363344675,46.6819950635735,658,658,DON-3290,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, , , ,./0.png
+-71.7280036650388,46.6822591438099,659,659,DON-3295,Hors-Projet, ,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence, ,"25", ,./0.png
+-71.7222540071783,46.6819830773453,660,660,DON-3300,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,ODC1, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7383398319363,46.6718735025536,661,661,DON-3305,ODS1,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E11, ,31 W Type 2,./0.png
+-71.722243035776,46.682312704233,662,662,DON-3310,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,ODC1, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7287775413943,46.682964772412,663,663,DON-3315,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7222887562208,46.6816917301127,664,664,DON-3320,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,ODC1, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7224478856878,46.681664008972,665,665,DON-3325,Hors-Projet, ,Inconnue,Inconnue, ,pas_un_luminaire, ,NA, , , , , ,Inconnue, , , ,./0.png
+-71.7271967344482,46.6864301466173,666,666,DON-3330,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7271543994479,46.6864165505668,667,667,DON-3335,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.726775938554,46.6870380075058,668,668,DON-3340,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7268166975099,46.6870508054955,669,669,DON-3345,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7264500983803,46.6875173166601,670,670,DON-3350,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7264726283543,46.6875271982165,671,671,DON-3355,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7260176817142,46.6879297844221,672,672,DON-3360,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7260474839239,46.6879395152653,673,673,DON-3365,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7256982327056,46.6881590683525,674,674,DON-3370,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7257216166084,46.6881727096139,675,675,DON-3375,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7249624794208,46.6885956866693,676,676,DON-3380,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7249260469717,46.6885743200574,677,677,DON-3385,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7240857159145,46.6889253575969,678,678,DON-3390,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7240661650097,46.6889030193013,679,679,DON-3395,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7231312601547,46.6890962073231,680,680,DON-3400,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7231404552737,46.6891250531125,681,681,DON-3405,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7224907040388,46.6892763009479,682,682,DON-3410,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.722491928719,46.6892584969503,683,683,DON-3415,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7216288871811,46.6893982239436,684,684,DON-3420,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7216205685843,46.6893849086223,685,685,DON-3425,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7210024824355,46.6895985310775,686,686,DON-3430,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,E59, ,47 W Type 2,./0.png
+-71.7204455985665,46.6896740310047,687,687,DON-3435,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MSP_MTQ, ,NA, , , , ,Cobra,Grande potence,E59, ,47 W Type 2,./0.png
+-71.6925402845413,46.6743172476613,688,688,DON-3440,ODS1,ERL1004C330AGRAYILR,PorteFusible,"30", ,HQ, ,NA, , , , ,Cobra,Moyenne potence,E12, ,31 W Type 3,./0.png
+-71.7276399153231,46.6857064690425,689,689,DON-3445,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7276029124533,46.6856909869223,690,690,DON-3450,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7280027360866,46.6850981546468,691,691,DON-3455,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7222788855854,46.6841318643029,692,692,DON-3460,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,ODC1, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7223065350701,46.6826301349766,693,693,DON-3465,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,ODC1, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7222205374006,46.6829520326436,694,694,DON-3470,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,ODC1, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7222119570244,46.683226843265,695,695,DON-3475,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,ODC1, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7289463062435,46.6823920548193,696,696,DON-3480,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7289193425697,46.6823859810776,697,697,DON-3485,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.728826322272,46.6829714854536,698,698,DON-3490,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7286800310193,46.6834071273896,699,699,DON-3495,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7287261026156,46.6834053209232,700,700,DON-3500,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7222077318222,46.6834990774857,701,701,DON-3505,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,ODC1, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7222303045098,46.6837635474003,702,702,DON-3510,Projet de base,ERL1006B330AGRAYILR,NA,"30", ,MSP, ,ODC1, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7212539176552,46.684309574967,703,703,DON-3515,Projet de base,ERL1H06B330AGRAYILR,NA,"30",347V,MSP, ,ODC1, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7279725524222,46.6850894783159,704,704,DON-3520,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7206497043966,46.68419885158,705,705,DON-3525,Hors-Projet, ,Inconnue,Inconnue, ,pas_un_luminaire, ,NA, , , , , ,Inconnue, , , ,./0.png
+-71.7202060062476,46.684358796677,706,706,DON-3530,Projet de base,ERL1H06B330AGRAYILR,NA,"30",347V,MSP, ,ODC1, , , , ,Cobra,Moyenne potence,E19, ,47 W Type 2,./0.png
+-71.7329596050174,46.6840912093082,707,707,DON-3535,Hors-Projet, ,Inconnue,Inconnue, ,pas_un_luminaire, ,NA, , , , , ,Inconnue, , , ,./0.png
+-71.7292938251145,46.6815558218185,708,708,DON-3540,Hors-Projet, ,NA,"30", ,MSP, ,NA, , , , ,Cobra,Moyenne potence, , , ,./0.png
+-71.748716137123,46.6775317273002,709,709,DON-3545,Hors-Projet, ,Inconnue,Inconnue, ,pas_un_luminaire, ,NA, , , , , ,Inconnue, , , ,./0.png
+-71.7290897041798,46.6819914154425,710,710,DON-3550,Hors-Projet,ERLH010B330AGRAYILR,NA,"30", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E31, ,82 W Type 2,./0.png
+-71.728646418903,46.6837534853015,711,711,DON-3555,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7286148225072,46.6837498156665,712,712,DON-3560,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7283734964737,46.6844026137712,713,713,DON-3565,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7283724214605,46.6844045559993,714,714,DON-3570,Hors-Projet,ERL1006B330AGRAYILR,NA,"35", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E21, ,47 W Type 2,./0.png
+-71.7290018162969,46.6819802346862,715,715,DON-3575,Hors-Projet,ERLH010B330AGRAYILR,NA,"30", ,MDP_MTQ, ,NA, , , , ,Cobra,Grande potence,E31, ,82 W Type 2,./0.png
+-71.7141572000867,46.6826227397506,716,716,DON-3590,ODS1,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,HQ, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7137001405532,46.6826415437046,717,717,DON-3595,ODS1,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,HQ, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7132267516516,46.6827062913733,718,718,DON-3600,ODS1,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,HQ, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7129076682374,46.6828894809886,719,719,DON-3605,ODS1,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,HQ, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7401163295101,46.6770160879986,720,720,DON-3610,Projet de base,ERL1004B330AGRAYILR,PorteFusible,"25", ,HQ, ,ODC1, ,fusibleSimpleRemplace, , ,Cobra,Moyenne potence,E11,"10",31 W Type 2,./0.png
+-71.7151911549679,46.6825355838208,721,721,DON-3880,ODS1,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,HQ, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.7145982739541,46.6825982054439,722,722,DON-3885,ODS1,ERL1H06B330AGRAYILR,PorteFusible,"25",347V,HQ, ,NA, , , , ,Cobra,Grande potence,E19, ,47 W Type 2,./0.png
+-71.717938136595,46.6795517844918,723,723,,,,,,,,,,,,,,,,,,,./0.png
+-71.7180280755944,46.6796771333069,724,724,,,,,,,,,,,,,,,,,,,./0.png
+-71.7182747217464,46.6793842878823,725,725,,,,,,,,,,,,,,,,,,,./0.png
+-71.7183277160981,46.6790866396317,726,726,,,,,,,,,,,,,,,,,,,./0.png
+-71.7181699589503,46.6787299841323,727,727,,,,,,,,,,,,,,,,,,,./0.png
+-71.7186757038126,46.6792516763765,728,728,,,,,,,,,,,,,,,,,,,./0.png
+-71.7191040000572,46.679177307554,729,729,,,,,,,,,,,,,,,,,,,./0.png
+-71.7195987247853,46.6790906062518,730,730,,,,,,,,,,,,,,,,,,,./0.png
+-71.7199349377042,46.6790066366136,731,731,,,,,,,,,,,,,,,,,,,./0.png
+-71.720265396629,46.6789069849536,732,732,,,,,,,,,,,,,,,,,,,./0.png
+-71.7205713774466,46.6787832862231,733,733,,,,,,,,,,,,,,,,,,,./0.png
+-71.7208685305991,46.6786428003851,734,734,,,,,,,,,,,,,,,,,,,./0.png
+-71.7211499771414,46.6784893912282,735,735,,,,,,,,,,,,,,,,,,,./0.png
+-71.7214141810569,46.6783258984243,736,736,,,,,,,,,,,,,,,,,,,./0.png
+-71.7216708429208,46.6781620186053,737,737,,,,,,,,,,,,,,,,,,,./0.png
+-71.7219306362547,46.6780003332398,738,738,,,,,,,,,,,,,,,,,,,./0.png
+-71.7221902034083,46.6778328594268,739,739,,,,,,,,,,,,,,,,,,,./0.png
+-71.7224491142354,46.677668637135,740,740,,,,,,,,,,,,,,,,,,,./0.png
+-71.7227072726199,46.6775049099121,741,741,,,,,,,,,,,,,,,,,,,./0.png
+-71.7229545992899,46.6773244110951,742,742,,,,,,,,,,,,,,,,,,,./0.png
+-71.7231705246356,46.6771262981456,743,743,,,,,,,,,,,,,,,,,,,./0.png
+-71.7233612978734,46.6768964309035,744,744,,,,,,,,,,,,,,,,,,,./0.png
+-71.7234905159741,46.6766004634531,745,745,,,,,,,,,,,,,,,,,,,./0.png
+-71.721306232106,46.6767216208513,746,746,,,,,,,,,,,,,,,,,,,./0.png
+-71.7201449780109,46.6766942693829,747,747,,,,,,,,,,,,,,,,,,,./0.png
+-71.7195639940945,46.6766373805931,748,748,,,,,,,,,,,,,,,,,,,./0.png
+-71.7189769928693,46.6765804054154,749,749,,,,,,,,,,,,,,,,,,,./0.png
+-71.7213243190051,46.6756519518528,750,750,,,,,,,,,,,,,,,,,,,./0.png
+-71.7179925224238,46.6758455752048,751,751,,,,,,,,,,,,,,,,,,,./0.png
+-71.7174324381642,46.6757857657986,752,752,,,,,,,,,,,,,,,,,,,./0.png
+-71.7170654683689,46.6753460459029,753,753,,,,,,,,,,,,,,,,,,,./0.png
+-71.7169669781871,46.6758116276268,754,754,,,,,,,,,,,,,,,,,,,./0.png
+-71.7168814713467,46.6762464806069,755,755,,,,,,,,,,,,,,,,,,,./0.png
+-71.7169330604421,46.676690657949,756,756,,,,,,,,,,,,,,,,,,,./0.png
+-71.7168597548462,46.6770295996546,757,757,,,,,,,,,,,,,,,,,,,./0.png
+-71.7178320634584,46.6771869250255,758,759,,,,,,,,,,,,,,,,,,,./0.png
+-71.7179243919288,46.6767660731986,759,760,,,,,,,,,,,,,,,,,,,./0.png
+-71.7177294526385,46.6775289834497,760,761,,,,,,,,,,,,,,,,,,,./0.png
+-71.7173787667945,46.6777789455202,761,762,,,,,,,,,,,,,,,,,,,./0.png
+-71.7178367183135,46.6784051508122,762,763,,,,,,,,,,,,,,,,,,,./0.png
+-71.7173096396187,46.6764082495559,763,764,,,,,,,,,,,,,,,,,,,./0.png
+-71.7177774416182,46.6764607522503,764,765,,,,,,,,,,,,,,,,,,,./0.png
+-71.7164926949952,46.6773182227909,765,766,,,,,,,,,,,,,,,,,,,./0.png
+-71.7159457620724,46.6766653747662,766,767,,,,,,,,,,,,,,,,,,,./0.png
+-71.7159061687512,46.6759437979006,767,768,,,,,,,,,,,,,,,,,,,./0.png
+-71.7166471805459,46.6756083999128,768,769,,,,,,,,,,,,,,,,,,,./0.png
+-71.7160965118036,46.6755568318739,769,770,,,,,,,,,,,,,,,,,,,./0.png
+-71.7155427435028,46.6755104411193,770,771,,,,,,,,,,,,,,,,,,,./0.png
+-71.7149899994224,46.6754610103223,771,772,,,,,,,,,,,,,,,,,,,./0.png
+-71.7144351588013,46.6754138680727,772,773,,,,,,,,,,,,,,,,,,,./0.png
+-71.71142208709,46.6754801374514,773,774,,,,,,,,,,,,,,,,,,,./0.png
+-71.7111948129406,46.6758760397649,774,775,,,,,,,,,,,,,,,,,,,./0.png
+-71.7114998506402,46.6761570003107,775,776,,,,,,,,,,,,,,,,,,,./0.png
+-71.7118556912225,46.6764359995847,776,777,,,,,,,,,,,,,,,,,,,./0.png
+-71.7122088626005,46.6767156476936,777,778,,,,,,,,,,,,,,,,,,,./0.png
+-71.7125623529505,46.6769963601293,778,779,,,,,,,,,,,,,,,,,,,./0.png
+-71.712916230035,46.6772759652703,779,780,,,,,,,,,,,,,,,,,,,./0.png
+-71.7133101032377,46.6774228300424,780,781,,,,,,,,,,,,,,,,,,,./0.png
+-71.7137253499096,46.6771662829921,781,782,,,,,,,,,,,,,,,,,,,./0.png
+-71.711860094869,46.671476823711,782,783,,,,,,,,,,,,,,,,,,,./0.png
+-71.7122526295749,46.6715850871815,783,784,,,,,,,,,,,,,,,,,,,./0.png
+-71.7113812926024,46.6716414954116,784,785,,,,,,,,,,,,,,,,,,,./0.png
+-71.7109675194228,46.6717847619676,785,786,,,,,,,,,,,,,,,,,,,./0.png
+-71.710543999985,46.6719283586548,786,787,,,,,,,,,,,,,,,,,,,./0.png
+-71.7101196289328,46.6720779347789,787,788,,,,,,,,,,,,,,,,,,,./0.png
+-71.7096998031304,46.6722190421613,788,789,,,,,,,,,,,,,,,,,,,./0.png
+-71.7097897339681,46.6726682542583,789,790,,,,,,,,,,,,,,,,,,,./0.png
+-71.710189971105,46.6728142627395,790,791,,,,,,,,,,,,,,,,,,,./0.png
+-71.7106353968269,46.6726718165976,791,792,,,,,,,,,,,,,,,,,,,./0.png
+-71.7110601146539,46.6725303652186,792,793,,,,,,,,,,,,,,,,,,,./0.png
+-71.7114773749687,46.6723845783423,793,794,,,,,,,,,,,,,,,,,,,./0.png
+-71.7116912869502,46.6722136134813,794,795,,,,,,,,,,,,,,,,,,,./0.png
+-71.711415953036,46.6718388577549,795,796,,,,,,,,,,,,,,,,,,,./0.png
+-71.7107201474377,46.6729849718155,796,797,,,,,,,,,,,,,,,,,,,./0.png
+-71.7108674807967,46.6731902358,797,798,,,,,,,,,,,,,,,,,,,./0.png
+-71.7110311877247,46.673418754566,798,799,,,,,,,,,,,,,,,,,,,./0.png
+-71.7118452779906,46.67242581685,799,800,,,,,,,,,,,,,,,,,,,./0.png
+-71.7120196116968,46.6726633542194,800,801,,,,,,,,,,,,,,,,,,,./0.png
+-71.7122521298676,46.672863071738,801,802,,,,,,,,,,,,,,,,,,,./0.png
+-71.7127519122552,46.6729461012879,802,803,,,,,,,,,,,,,,,,,,,./0.png
+-71.7132821072642,46.6730231481391,803,804,,,,,,,,,,,,,,,,,,,./0.png
+-71.7138660954925,46.6730535020997,804,805,,,,,,,,,,,,,,,,,,,./0.png
+-71.7145728199923,46.672917546419,805,806,,,,,,,,,,,,,,,,,,,./0.png
+-71.714739510348,46.6730441865862,806,807,,,,,,,,,,,,,,,,,,,./0.png
+-71.7148988800222,46.6733301159917,807,808,,,,,,,,,,,,,,,,,,,./0.png
+-71.7150549771346,46.6736115482839,808,809,,,,,,,,,,,,,,,,,,,./0.png
+-71.7153136163934,46.6727983379674,809,810,,,,,,,,,,,,,,,,,,,./0.png
+-71.7157836569778,46.6728042266604,810,811,,,,,,,,,,,,,,,,,,,./0.png
+-71.7160133816758,46.6729462389549,811,812,,,,,,,,,,,,,,,,,,,./0.png
+-71.7157464859648,46.6732034512893,812,813,,,,,,,,,,,,,,,,,,,./0.png
+-71.716108933304,46.673243530301,813,814,,,,,,,,,,,,,,,,,,,./0.png
+-71.7162567792638,46.6728086438911,814,815,,,,,,,,,,,,,,,,,,,./0.png
+-71.7166359510136,46.6728776450486,815,816,,,,,,,,,,,,,,,,,,,./0.png
+-71.7172770643382,46.6733864030121,816,817,,,,,,,,,,,,,,,,,,,./0.png
+-71.7171765996821,46.6728068019165,817,818,,,,,,,,,,,,,,,,,,,./0.png
+-71.7175218293832,46.6726170123812,818,819,,,,,,,,,,,,,,,,,,,./0.png
+-71.717527694571,46.6736272722046,819,820,,,,,,,,,,,,,,,,,,,./0.png
+-71.7174550235026,46.6741192540295,820,821,,,,,,,,,,,,,,,,,,,./0.png
+-71.7175368644456,46.6739515062424,821,822,,,,,,,,,,,,,,,,,,,./0.png
+-71.7180092280634,46.6740158242779,822,823,,,,,,,,,,,,,,,,,,,./0.png
+-71.7179453927389,46.6724884597492,823,824,,,,,,,,,,,,,,,,,,,./0.png
+-71.7178189321863,46.6728635401661,824,825,,,,,,,,,,,,,,,,,,,./0.png
+-71.7180708989876,46.6731034583072,825,826,,,,,,,,,,,,,,,,,,,./0.png
+-71.7183886198222,46.6732462896422,826,827,,,,,,,,,,,,,,,,,,,./0.png
+-71.7188369005503,46.6732798095286,827,828,,,,,,,,,,,,,,,,,,,./0.png
+-71.7193643539088,46.6733105001457,828,829,,,,,,,,,,,,,,,,,,,./0.png
+-71.7197005569119,46.673346509266,829,830,,,,,,,,,,,,,,,,,,,./0.png
+-71.72004096956,46.6734447979956,830,831,,,,,,,,,,,,,,,,,,,./0.png
+-71.7203303606828,46.6736039212397,831,832,,,,,,,,,,,,,,,,,,,./0.png
+-71.7207370331876,46.6739248332438,832,833,,,,,,,,,,,,,,,,,,,./0.png
+-71.6954764214729,46.6773751803947,833,834,,,,,,,,,,,,,,,,,,,./0.png
+-71.6691363255017,46.6822241814664,834,835,,,,,,,,,,,,,,,,,,,./0.png
+-71.6820712495972,46.6773166318394,835,836,,,,,,,,,,,,,,,,,,,./0.png
+-71.6823281760467,46.6778147089127,836,837,,,,,,,,,,,,,,,,,,,./0.png
+-71.6826151629502,46.6783026844909,837,838,,,,,,,,,,,,,,,,,,,./0.png
+-71.6830911646689,46.6786946789821,838,839,,,,,,,,,,,,,,,,,,,./0.png
+-71.6836238527342,46.6791228041193,839,840,,,,,,,,,,,,,,,,,,,./0.png
+-71.6841409672507,46.6795353500459,840,841,,,,,,,,,,,,,,,,,,,./0.png
+-71.6846704447925,46.6799320304271,841,842,,,,,,,,,,,,,,,,,,,./0.png
+-71.6852222506849,46.6803369699119,842,843,,,,,,,,,,,,,,,,,,,./0.png
+-71.685699784884,46.6807641559645,843,844,,,,,,,,,,,,,,,,,,,./0.png
+-71.6862115818052,46.6811645093853,844,845,,,,,,,,,,,,,,,,,,,./0.png
+-71.7247695303437,46.672212276534,845,846,,,,,,,,,,,,,,,,,,,./0.png
+-71.7242889462882,46.672156382819,846,847,,,,,,,,,,,,,,,,,,,./0.png
+-71.7237775960538,46.6720593593923,847,848,,,,,,,,,,,,,,,,,,,./0.png
+-71.7230800064523,46.6719268183821,848,849,,,,,,,,,,,,,,,,,,,./0.png
+-71.7226575914997,46.6718467534288,849,850,,,,,,,,,,,,,,,,,,,./0.png
+-71.7234024630714,46.6718034512599,850,851,,,,,,,,,,,,,,,,,,,./0.png
+-71.7234928215286,46.6715983833143,851,852,,,,,,,,,,,,,,,,,,,./0.png
+-71.723372293206,46.6712573838222,852,853,,,,,,,,,,,,,,,,,,,./0.png
+-71.7232317840406,46.6722324491278,853,854,,,,,,,,,,,,,,,,,,,./0.png
+-71.7233902838907,46.6725565499675,854,855,,,,,,,,,,,,,,,,,,,./0.png
+-71.7236933365392,46.6727993759411,855,856,,,,,,,,,,,,,,,,,,,./0.png
+-71.7239745967562,46.6730248070133,856,857,,,,,,,,,,,,,,,,,,,./0.png
+-71.7242516465555,46.6732442663513,857,858,,,,,,,,,,,,,,,,,,,./0.png
+-71.7246801292655,46.673227441651,858,859,,,,,,,,,,,,,,,,,,,./0.png
+-71.7250173573178,46.6730393849089,859,860,,,,,,,,,,,,,,,,,,,./0.png
+-71.7254449680713,46.6728003843163,860,861,,,,,,,,,,,,,,,,,,,./0.png
+-71.7272133223816,46.6738204822362,861,862,,,,,,,,,,,,,,,,,,,./0.png
+-71.7267579776214,46.6739864943078,862,863,,,,,,,,,,,,,,,,,,,./0.png
+-71.7262356203191,46.6740189696327,863,864,,,,,,,,,,,,,,,,,,,./0.png
+-71.7256266278334,46.6740276324408,864,865,,,,,,,,,,,,,,,,,,,./0.png
+-71.725178581108,46.6740179976791,865,866,,,,,,,,,,,,,,,,,,,./0.png
+-71.7246971217293,46.6740139332975,866,867,,,,,,,,,,,,,,,,,,,./0.png
+-71.7241151281568,46.6739536992805,867,868,,,,,,,,,,,,,,,,,,,./0.png
+-71.7238412963013,46.67381016069,868,869,,,,,,,,,,,,,,,,,,,./0.png
+-71.7235262970243,46.6735579893785,869,870,,,,,,,,,,,,,,,,,,,./0.png
+-71.7232075685318,46.6733051535201,870,871,,,,,,,,,,,,,,,,,,,./0.png
+-71.7228569609651,46.6730261874193,871,872,,,,,,,,,,,,,,,,,,,./0.png
+-71.7225525955923,46.6727832886998,872,873,,,,,,,,,,,,,,,,,,,./0.png
+-71.722244461287,46.6725365788408,873,874,,,,,,,,,,,,,,,,,,,./0.png
+-71.7219393380847,46.6722916470214,874,875,,,,,,,,,,,,,,,,,,,./0.png
+-71.7216277965219,46.6720450384524,875,876,,,,,,,,,,,,,,,,,,,./0.png
+-71.721391796623,46.6719856355676,876,877,,,,,,,,,,,,,,,,,,,./0.png
+-71.7218294007186,46.6716875540477,877,878,,,,,,,,,,,,,,,,,,,./0.png
+-71.7222499366755,46.6717678067709,878,879,,,,,,,,,,,,,,,,,,,./0.png
+-71.7213583388521,46.671730786182,879,880,,,,,,,,,,,,,,,,,,,./0.png
+-71.7214974676695,46.6713731901269,880,881,,,,,,,,,,,,,,,,,,,./0.png
+-71.7215655716128,46.6712026036099,881,882,,,,,,,,,,,,,,,,,,,./0.png
+-71.721532775732,46.6708046358249,882,883,,,,,,,,,,,,,,,,,,,./0.png
+-71.7214409729198,46.6704610892041,883,884,,,,,,,,,,,,,,,,,,,./0.png
+-71.7214625346857,46.6700813495351,884,885,,,,,,,,,,,,,,,,,,,./0.png
+-71.7219641422512,46.6699240517591,885,886,,,,,,,,,,,,,,,,,,,./0.png
+-71.7223581381723,46.6699330880817,886,887,,,,,,,,,,,,,,,,,,,./0.png
+-71.7227327717058,46.6699712651526,887,888,,,,,,,,,,,,,,,,,,,./0.png
+-71.7231154630427,46.6700457626952,888,889,,,,,,,,,,,,,,,,,,,./0.png
+-71.723616790544,46.6702780950558,889,890,,,,,,,,,,,,,,,,,,,./0.png
+-71.7239451638148,46.6704970036234,890,891,,,,,,,,,,,,,,,,,,,./0.png
+-71.7243101610011,46.6708032506425,891,892,,,,,,,,,,,,,,,,,,,./0.png
+-71.7222413229798,46.6709065119387,892,893,,,,,,,,,,,,,,,,,,,./0.png
+-71.722728995235,46.6709799360407,893,894,,,,,,,,,,,,,,,,,,,./0.png
+-71.7230485688938,46.6710389880322,894,895,,,,,,,,,,,,,,,,,,,./0.png
+-71.7276499147515,46.6709986884866,895,896,,,,,,,,,,,,,,,,,,,./0.png
+-71.727404302635,46.6722519229007,896,897,,,,,,,,,,,,,,,,,,,./0.png
+-71.7284138250719,46.6728226746056,897,898,,,,,,,,,,,,,,,,,,,./0.png
+-71.7260147556604,46.6736403526589,898,899,,,,,,,,,,,,,,,,,,,./0.png
+-71.7258802940523,46.6739179163024,899,900,,,,,,,,,,,,,,,,,,,./0.png
+-71.7256168110837,46.6737210943214,900,901,,,,,,,,,,,,,,,,,,,./0.png
+-71.7296325563847,46.6759660720251,901,902,,,,,,,,,,,,,,,,,,,./0.png
+-71.7300604094174,46.6759731534702,902,903,,,,,,,,,,,,,,,,,,,./0.png
+-71.7303811329598,46.675821624857,903,904,,,,,,,,,,,,,,,,,,,./0.png
+-71.7301953018852,46.6757680549978,904,905,,,,,,,,,,,,,,,,,,,./0.png
+-71.7303204584046,46.6755819675964,905,906,,,,,,,,,,,,,,,,,,,./0.png
+-71.7299408641682,46.6755643892377,906,907,,,,,,,,,,,,,,,,,,,./0.png
+-71.7302712846863,46.6762452582671,907,908,,,,,,,,,,,,,,,,,,,./0.png
+-71.7300854738491,46.6763373786145,908,909,,,,,,,,,,,,,,,,,,,./0.png
+-71.7302331775849,46.6764583929486,909,910,,,,,,,,,,,,,,,,,,,./0.png
+-71.7303107471999,46.6765193076521,910,911,,,,,,,,,,,,,,,,,,,./0.png
+-71.7300456637358,46.6765580419748,911,912,,,,,,,,,,,,,,,,,,,./0.png
+-71.7306483735167,46.6764975762292,912,913,,,,,,,,,,,,,,,,,,,./0.png
+-71.7299098621062,46.6764458196781,913,914,,,,,,,,,,,,,,,,,,,./0.png
+-71.7291737356864,46.6765568665223,914,915,,,,,,,,,,,,,,,,,,,./0.png
+-71.7287155690863,46.6768352591605,915,916,,,,,,,,,,,,,,,,,,,./0.png
+-71.7288121849323,46.6771877428461,916,917,,,,,,,,,,,,,,,,,,,./0.png
+-71.7290371526916,46.6774143884887,917,918,,,,,,,,,,,,,,,,,,,./0.png
+-71.7293076647459,46.6776153050479,918,919,,,,,,,,,,,,,,,,,,,./0.png
+-71.7295761952297,46.6778173443523,919,920,,,,,,,,,,,,,,,,,,,./0.png
+-71.7294028398694,46.6779938769744,920,921,,,,,,,,,,,,,,,,,,,./0.png
+-71.7286642597673,46.678073307298,921,922,,,,,,,,,,,,,,,,,,,./0.png
+-71.7303706883182,46.6776263804213,922,923,,,,,,,,,,,,,,,,,,,./0.png
+-71.7306761649818,46.6775127201111,923,924,,,,,,,,,,,,,,,,,,,./0.png
+-71.7298475402282,46.6780182110896,924,925,,,,,,,,,,,,,,,,,,,./0.png
+-71.7304570222368,46.6780901381228,925,926,,,,,,,,,,,,,,,,,,,./0.png
+-71.7307033653293,46.6783092137925,926,927,,,,,,,,,,,,,,,,,,,./0.png
+-71.7308683028702,46.678314080002,927,928,,,,,,,,,,,,,,,,,,,./0.png
+-71.7312095674522,46.6780835297742,928,929,,,,,,,,,,,,,,,,,,,./0.png
+-71.7310484858661,46.6775312181881,929,930,,,,,,,,,,,,,,,,,,,./0.png
+-71.7313296436221,46.6776636756863,930,931,,,,,,,,,,,,,,,,,,,./0.png
+-71.7295129322762,46.6784243100421,931,932,,,,,,,,,,,,,,,,,,,./0.png
+-71.7292958018214,46.6786299286377,932,933,,,,,,,,,,,,,,,,,,,./0.png
+-71.7291001006107,46.6792324546138,933,934,,,,,,,,,,,,,,,,,,,./0.png
+-71.7274140120696,46.6790433070325,934,935,,,,,,,,,,,,,,,,,,,./0.png
+-71.7275964558754,46.6791325509062,935,936,,,,,,,,,,,,,,,,,,,./0.png
+-71.7271640459368,46.6792858857982,936,937,,,,,,,,,,,,,,,,,,,./0.png
+-71.727358326215,46.67937632561,937,938,,,,,,,,,,,,,,,,,,,./0.png
+-71.7269268519469,46.6795227769914,938,939,,,,,,,,,,,,,,,,,,,./0.png
+-71.7271276274966,46.6795958154285,939,940,,,,,,,,,,,,,,,,,,,./0.png
+-71.7302294829826,46.6795147684802,940,941,,,,,,,,,,,,,,,,,,,./0.png
+-71.7299289011317,46.6796838313924,941,942,,,,,,,,,,,,,,,,,,,./0.png
+-71.729624818583,46.6798469240428,942,943,,,,,,,,,,,,,,,,,,,./0.png
+-71.7293886696123,46.6800089063044,943,944,,,,,,,,,,,,,,,,,,,./0.png
+-71.7291797201056,46.6801777275435,944,945,,,,,,,,,,,,,,,,,,,./0.png
+-71.7289996996672,46.6803687212715,945,946,,,,,,,,,,,,,,,,,,,./0.png
+-71.7288330202596,46.6805718662948,946,947,,,,,,,,,,,,,,,,,,,./0.png
+-71.7286774282104,46.6807861783437,947,948,,,,,,,,,,,,,,,,,,,./0.png
+-71.728553411687,46.6809909664208,948,949,,,,,,,,,,,,,,,,,,,./0.png
+-71.7283784181848,46.6811732080691,949,950,,,,,,,,,,,,,,,,,,,./0.png
+-71.7286485437426,46.6814745448984,950,951,,,,,,,,,,,,,,,,,,,./0.png
+-71.728500585501,46.681604733993,951,952,,,,,,,,,,,,,,,,,,,./0.png
+-71.7289134380326,46.681783483682,952,953,,,,,,,,,,,,,,,,,,,./0.png
+-71.7292550504218,46.6817625467139,953,954,,,,,,,,,,,,,,,,,,,./0.png
+-71.7288040913331,46.6820491533143,954,955,,,,,,,,,,,,,,,,,,,./0.png
+-71.7178288799159,46.6805320788199,955,956,,,,,,,,,,,,,,,,,,,./0.png
+-71.7180779209964,46.6805352891604,956,957,,,,,,,,,,,,,,,,,,,./0.png
+-71.7182934609139,46.6805717466436,957,958,,,,,,,,,,,,,,,,,,,./0.png
+-71.7184901979583,46.6805694069497,958,959,,,,,,,,,,,,,,,,,,,./0.png
+-71.7189055768271,46.6806219801876,959,960,,,,,,,,,,,,,,,,,,,./0.png
+-71.7193205737395,46.6806937953906,960,961,,,,,,,,,,,,,,,,,,,./0.png
+-71.719740207064,46.6807658412584,961,962,,,,,,,,,,,,,,,,,,,./0.png
+-71.7201629328838,46.6808376474842,962,963,,,,,,,,,,,,,,,,,,,./0.png
+-71.7210558562716,46.6809963308966,963,964,,,,,,,,,,,,,,,,,,,./0.png
+-71.721468645316,46.6810658038407,964,966,,,,,,,,,,,,,,,,,,,./0.png
+-71.721871379144,46.6811389921446,965,967,,,,,,,,,,,,,,,,,,,./0.png
+-71.7220818244318,46.6811205460689,966,968,,,,,,,,,,,,,,,,,,,./0.png
+-71.7222761769968,46.6812113175915,967,969,,,,,,,,,,,,,,,,,,,./0.png
+-71.7226809339886,46.6812835799658,968,970,,,,,,,,,,,,,,,,,,,./0.png
+-71.7229244749459,46.681266898289,969,971,,,,,,,,,,,,,,,,,,,./0.png
+-71.7230805618284,46.6813502503198,970,972,,,,,,,,,,,,,,,,,,,./0.png
+-71.7234883977469,46.6814233639978,971,973,,,,,,,,,,,,,,,,,,,./0.png
+-71.7238996723151,46.6814898592673,972,974,,,,,,,,,,,,,,,,,,,./0.png
+-71.7243171057171,46.6815508351677,973,975,,,,,,,,,,,,,,,,,,,./0.png
+-71.7231867803889,46.680887989032,974,976,,,,,,,,,,,,,,,,,,,./0.png
+-71.7233305254694,46.6808035882877,975,977,,,,,,,,,,,,,,,,,,,./0.png
+-71.7233657546209,46.6810359719674,976,978,,,,,,,,,,,,,,,,,,,./0.png
+-71.7235554446089,46.6811867135688,977,979,,,,,,,,,,,,,,,,,,,./0.png
+-71.7236778842661,46.6811190131499,978,980,,,,,,,,,,,,,,,,,,,./0.png
+-71.723867584078,46.6812745952421,979,981,,,,,,,,,,,,,,,,,,,./0.png
+-71.7240678730565,46.6811579762009,980,982,,,,,,,,,,,,,,,,,,,./0.png
+-71.7242556613821,46.6810441814695,981,983,,,,,,,,,,,,,,,,,,,./0.png
+-71.7244199240665,46.681180548909,982,984,,,,,,,,,,,,,,,,,,,./0.png
+-71.724552720119,46.681335769856,983,985,,,,,,,,,,,,,,,,,,,./0.png
+-71.7245490064071,46.6815227498404,984,986,,,,,,,,,,,,,,,,,,,./0.png
+-71.7245624205201,46.681495533463,985,987,,,,,,,,,,,,,,,,,,,./0.png
+-71.7247193761233,46.6815320390387,986,988,,,,,,,,,,,,,,,,,,,./0.png
+-71.7247476100946,46.6816076643094,987,989,,,,,,,,,,,,,,,,,,,./0.png
+-71.724714778871,46.6813059971502,988,990,,,,,,,,,,,,,,,,,,,./0.png
+-71.7246432896713,46.681085130892,989,991,,,,,,,,,,,,,,,,,,,./0.png
+-71.7244277898959,46.6809089799667,990,992,,,,,,,,,,,,,,,,,,,./0.png
+-71.7251621704009,46.6816563073411,991,994,,,,,,,,,,,,,,,,,,,./0.png
+-71.7263997374906,46.6818502164762,992,995,,,,,,,,,,,,,,,,,,,./0.png
+-71.7270632707406,46.6808581456559,993,996,,,,,,,,,,,,,,,,,,,./0.png
+-71.7275240073818,46.6810844372088,994,997,,,,,,,,,,,,,,,,,,,./0.png
+-71.7277675678253,46.6807217676792,995,998,,,,,,,,,,,,,,,,,,,./0.png
+-71.7214992511361,46.679574591015,996,1000,,,,,,,,,,,,,,,,,,,./0.png
+-71.7205959976123,46.6796031090833,997,1001,,,,,,,,,,,,,,,,,,,./0.png
+-71.7300072583881,46.681150036912,998,1002,,,,,,,,,,,,,,,,,,,./0.png
+-71.7298136708498,46.6812552342293,999,1003,,,,,,,,,,,,,,,,,,,./0.png
+-71.7296245979358,46.6812371506405,1000,1004,,,,,,,,,,,,,,,,,,,./0.png
+-71.7295932085355,46.6814456325175,1001,1005,,,,,,,,,,,,,,,,,,,./0.png
+-71.7293488839408,46.6814065672817,1002,1006,,,,,,,,,,,,,,,,,,,./0.png
+-71.7289713761212,46.6815769669173,1003,1007,,,,,,,,,,,,,,,,,,,./0.png
+-71.7295681130802,46.68195992942,1004,1008,,,,,,,,,,,,,,,,,,,./0.png
+-71.7293860200856,46.6819453196179,1005,1009,,,,,,,,,,,,,,,,,,,./0.png
+-71.7298667847253,46.6816344987498,1006,1010,,,,,,,,,,,,,,,,,,,./0.png
+-71.7298427177579,46.6818212028772,1007,1011,,,,,,,,,,,,,,,,,,,./0.png
+-71.7298219714357,46.6819769353125,1008,1012,,,,,,,,,,,,,,,,,,,./0.png
+-71.7303671908346,46.6816089527503,1009,1013,,,,,,,,,,,,,,,,,,,./0.png
+-71.7307114882249,46.6820158836418,1010,1014,,,,,,,,,,,,,,,,,,,./0.png
+-71.7310764941159,46.6816451244265,1011,1015,,,,,,,,,,,,,,,,,,,./0.png
+-71.7316288622543,46.6816513424861,1012,1016,,,,,,,,,,,,,,,,,,,./0.png
+-71.7314929208557,46.6811612656715,1013,1017,,,,,,,,,,,,,,,,,,,./0.png
+-71.7295860887764,46.6809643487264,1014,1018,,,,,,,,,,,,,,,,,,,./0.png
+-71.7357663841109,46.6783010713175,1015,1019,,,,,,,,,,,,,,,,,,,./0.png
+-71.7355051013328,46.6784694150025,1016,1020,,,,,,,,,,,,,,,,,,,./0.png
+-71.7349491699293,46.678342357568,1017,1021,,,,,,,,,,,,,,,,,,,./0.png
+-71.7347355884237,46.6781512716463,1018,1022,,,,,,,,,,,,,,,,,,,./0.png
+-71.7349691508091,46.6780782357492,1019,1023,,,,,,,,,,,,,,,,,,,./0.png
+-71.7336025836036,46.6784050621482,1020,1024,,,,,,,,,,,,,,,,,,,./0.png
+-71.7299754574659,46.6825342231618,1021,1025,,,,,,,,,,,,,,,,,,,./0.png
+-71.7293654346525,46.6825584198983,1022,1026,,,,,,,,,,,,,,,,,,,./0.png
+-71.7293360325687,46.6827238266904,1023,1027,,,,,,,,,,,,,,,,,,,./0.png
+-71.7292992133903,46.6829207169704,1024,1028,,,,,,,,,,,,,,,,,,,./0.png
+-71.7306539275756,46.6829449359445,1025,1029,,,,,,,,,,,,,,,,,,,./0.png
+-71.7308393743413,46.6824745136969,1026,1030,,,,,,,,,,,,,,,,,,,./0.png
+-71.7315534108201,46.6825226969571,1027,1031,,,,,,,,,,,,,,,,,,,./0.png
+-71.7316836765018,46.6833469390002,1028,1032,,,,,,,,,,,,,,,,,,,./0.png
+-71.7322418078514,46.6834198591407,1029,1033,,,,,,,,,,,,,,,,,,,./0.png
+-71.7265703235264,46.6838539762646,1030,1034,,,,,,,,,,,,,,,,,,,./0.png
+-71.7173552150588,46.6806933179738,1031,1035,,,,,,,,,,,,,,,,,,,./0.png
+-71.7207652304062,46.6767522809854,1032,1036,,,,,,,,,,,,,,,,,,,./0.png
+-71.7187322800669,46.6764439846829,1033,1037,,,,,,,,,,,,,,,,,,,./0.png
+-71.7183578824499,46.6739990732516,1034,1038,,,,,,,,,,,,,,,,,,,./0.png
+-71.7175473684469,46.6743625963081,1035,1039,,,,,,,,,,,,,,,,,,,./0.png
+-71.7211003272073,46.6741105609409,1036,1040,,,,,,,,,,,,,,,,,,,./0.png
+-71.7212039983634,46.6743137540297,1037,1041,,,,,,,,,,,,,,,,,,,./0.png
+-71.716953950976,46.6731045748796,1038,1042,,,,,,,,,,,,,,,,,,,./0.png
+-71.7224508390645,46.6734647463741,1039,1043,,,,,,,,,,,,,,,,,,,./0.png
+-71.7308922273856,46.6735163867224,1040,1044,,,,,,,,,,,,,,,,,,,./0.png
+-71.7289321901522,46.674648186193,1041,1045,,,,,,,,,,,,,,,,,,,./0.png
+-71.7288414491568,46.6748476215335,1042,1046,,,,,,,,,,,,,,,,,,,./0.png
+-71.7360600831058,46.6858807455682,1043,1048,,,,,,,,,,,,,,,,,,,./0.png
+-71.7343260106101,46.6853522751106,1044,1049,,,,,,,,,,,,,,,,,,,./0.png
+-71.7326942077931,46.6855230805139,1045,1050,,,,,,,,,,,,,,,,,,,./0.png
+-71.7378877549012,46.6855326726815,1046,1051,,,,,,,,,,,,,,,,,,,./0.png
+-71.7356307556082,46.6866594397146,1047,1052,,,,,,,,,,,,,,,,,,,./0.png
+-71.7312245226964,46.6874707455481,1048,1053,,,,,,,,,,,,,,,,,,,./0.png
+-71.72954551857,46.6868106329837,1049,1054,,,,,,,,,,,,,,,,,,,./0.png
+-71.7240921817891,46.6859050678341,1050,1055,,,,,,,,,,,,,,,,,,,./0.png
+-71.7261684911333,46.6859217474106,1051,1056,,,,,,,,,,,,,,,,,,,./0.png
+-71.7216477782299,46.6860423683049,1052,1057,,,,,,,,,,,,,,,,,,,./0.png
+-71.7332935544869,46.6864274777225,1053,1058,,,,,,,,,,,,,,,,,,,./0.png
+-71.73227328754,46.6748313526572,1054,1059,,,,,,,,,,,,,,,,,,,./0.png
+-71.7321478611355,46.6749041120009,1055,1060,,,,,,,,,,,,,,,,,,,./0.png
+-71.7320483184429,46.6759291667109,1056,1061,,,,,,,,,,,,,,,,,,,./0.png
+-71.7335412881674,46.6761182481543,1057,1063,,,,,,,,,,,,,,,,,,,./0.png
+-71.7307038525942,46.6765964972716,1058,1064,,,,,,,,,,,,,,,,,,,./0.png
+-71.7358631100311,46.6762247196411,1059,1065,,,,,,,,,,,,,,,,,,,./0.png
+-71.7337062911056,46.677855549036,1060,1066,,,,,,,,,,,,,,,,,,,./0.png
+-71.7321856602081,46.6782551933157,1061,1067,,,,,,,,,,,,,,,,,,,./0.png
+-71.7323610722442,46.6783829850668,1062,1068,,,,,,,,,,,,,,,,,,,./0.png
+-71.7287207049712,46.6785124457004,1063,1069,,,,,,,,,,,,,,,,,,,./0.png
+-71.7274677620811,46.6826856437544,1064,1070,,,,,,,,,,,,,,,,,,,./0.png
+-71.7279212471353,46.6827414299075,1065,1071,,,,,,,,,,,,,,,,,,,./0.png
+-71.7287223340791,46.6823585760991,1066,1072,,,,,,,,,,,,,,,,,,,./0.png
+-71.730595098071,46.6802217079879,1067,1073,,,,,,,,,,,,,,,,,,,./0.png
+-71.7300818717217,46.6824838520339,1068,1074,,,,,,,,,,,,,,,,,,,./0.png
+-71.7167238167687,46.6780340956713,1069,1076,,,,,,,,,,,,,,,,,,,./0.png
+-71.7174757600787,46.6780795102525,1070,1077,,,,,,,,,,,,,,,,,,,./0.png
+-71.7160107046019,46.6763430827166,1071,1078,,,,,,,,,,,,,,,,,,,./0.png
+-71.7187615775878,46.6761322945499,1072,1079,,,,,,,,,,,,,,,,,,,./0.png
+-71.7192661357523,46.6739549695525,1073,1080,,,,,,,,,,,,,,,,,,,./0.png
+-71.7365208838036,46.6718795747774,1074,1081,,,,,,,,,,,,,,,,,,,./0.png
+-71.7397282048628,46.6710005861898,1075,1082,,,,,,,,,,,,,,,,,,,./0.png
+-71.7399609130313,46.671058461103,1076,1083,,,,,,,,,,,,,,,,,,,./0.png
+-71.740751072298,46.6722930967366,1077,1084,,,,,,,,,,,,,,,,,,,./0.png
+-71.7409246104169,46.6721798688554,1078,1085,,,,,,,,,,,,,,,,,,,./0.png
+-71.7411053040017,46.6723183617908,1079,1086,,,,,,,,,,,,,,,,,,,./0.png
+-71.7409354906277,46.6724278716948,1080,1087,,,,,,,,,,,,,,,,,,,./0.png
+-71.7420392251345,46.6713500023548,1081,1088,,,,,,,,,,,,,,,,,,,./0.png
+-71.7418417557843,46.6721947848057,1082,1089,,,,,,,,,,,,,,,,,,,./0.png
+-71.7416994777351,46.6724005081635,1083,1090,,,,,,,,,,,,,,,,,,,./0.png
+-71.7415272258163,46.672823298739,1084,1091,,,,,,,,,,,,,,,,,,,./0.png
+-71.7429078484298,46.6715523609069,1085,1092,,,,,,,,,,,,,,,,,,,./0.png
+-71.7384763556666,46.6724841952611,1086,1093,,,,,,,,,,,,,,,,,,,./0.png
+-71.7385204691559,46.6726956106655,1087,1094,,,,,,,,,,,,,,,,,,,./0.png
+-71.7384561433352,46.6729388093365,1088,1095,,,,,,,,,,,,,,,,,,,./0.png
+-71.7396585941305,46.6731232675549,1089,1096,,,,,,,,,,,,,,,,,,,./0.png
+-71.7405028980488,46.6732618468497,1090,1097,,,,,,,,,,,,,,,,,,,./0.png
+-71.7405185500506,46.6733947697809,1091,1098,,,,,,,,,,,,,,,,,,,./0.png
+-71.740009985844,46.673245974012,1092,1099,,,,,,,,,,,,,,,,,,,./0.png
+-71.7394285072999,46.6736210428011,1093,1100,,,,,,,,,,,,,,,,,,,./0.png
+-71.7395749283863,46.6737095593736,1094,1101,,,,,,,,,,,,,,,,,,,./0.png
+-71.7465780110545,46.6734426020512,1095,1102,,,,,,,,,,,,,,,,,,,./0.png
+-71.7468980046808,46.6753720518368,1096,1103,,,,,,,,,,,,,,,,,,,./0.png
+-71.7469103175615,46.6755709884186,1097,1104,,,,,,,,,,,,,,,,,,,./0.png
+-71.7469699764742,46.6758026832693,1098,1105,,,,,,,,,,,,,,,,,,,./0.png
+-71.7467467826202,46.6759438418888,1099,1106,,,,,,,,,,,,,,,,,,,./0.png
+-71.7471154501476,46.6759990348828,1100,1107,,,,,,,,,,,,,,,,,,,./0.png
+-71.7470058999232,46.6761653128555,1101,1108,,,,,,,,,,,,,,,,,,,./0.png
+-71.7473272375134,46.6761448262033,1102,1109,,,,,,,,,,,,,,,,,,,./0.png
+-71.7473190085896,46.6763331429426,1103,1110,,,,,,,,,,,,,,,,,,,./0.png
+-71.747580443299,46.6762976858484,1104,1111,,,,,,,,,,,,,,,,,,,./0.png
+-71.7476388904474,46.6764909416716,1105,1112,,,,,,,,,,,,,,,,,,,./0.png
+-71.7478170017551,46.6766444306977,1106,1113,,,,,,,,,,,,,,,,,,,./0.png
+-71.7480697653645,46.6768407642959,1107,1114,,,,,,,,,,,,,,,,,,,./0.png
+-71.7455747102851,46.6761392305774,1108,1115,,,,,,,,,,,,,,,,,,,./0.png
+-71.7410963867265,46.6746421955134,1109,1116,,,,,,,,,,,,,,,,,,,./0.png
+-71.7405567176969,46.6749622019799,1110,1117,,,,,,,,,,,,,,,,,,,./0.png
+-71.7397988026981,46.6748722803904,1111,1118,,,,,,,,,,,,,,,,,,,./0.png
+-71.7395242305771,46.6746772452689,1112,1119,,,,,,,,,,,,,,,,,,,./0.png
+-71.7392739525694,46.6744972128393,1113,1120,,,,,,,,,,,,,,,,,,,./0.png
+-71.704244105397,46.6767638766137,1114,1121,,,,,,,,,,,,,,,,,,,./0.png

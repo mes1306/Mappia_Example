@@ -121,6 +121,16 @@
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 			<CustomLayer>
+				<Name>GH:aq_purgeur_eau</Name>
+				<Title>aq_purgeur_eau</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:aq_purgeur_air</Name>
+				<Title>aq_purgeur_air</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
 				<Name>GH:aq_vanne</Name>
 				<Title>aq_vanne</Title>
 				<Operation type="csv">1</Operation>
@@ -131,13 +141,23 @@
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 			<CustomLayer>
-				<Name>GH:aq_purgeur_eau</Name>
-				<Title>aq_purgeur_eau</Title>
+				<Name>GH:eg_puisards</Name>
+				<Title>eg_puisards</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 			<CustomLayer>
-				<Name>GH:aq_purgeur_air</Name>
-				<Title>aq_purgeur_air</Title>
+				<Name>GH:eg_regard</Name>
+				<Title>eg_regard</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:eg_regdom</Name>
+				<Title>eg_regdom</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:lampadaire</Name>
+				<Title>lampadaire</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 		</VendorSpecificCapabilities>
