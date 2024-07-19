@@ -111,21 +111,6 @@
 		<VendorSpecificCapabilities>
 			<notempty></notempty>
 			<CustomLayer>
-				<Name>GH:aq_borne_incendie</Name>
-				<Title>aq_borne_incendie</Title>
-				<Operation type="csv">1</Operation>
-			</CustomLayer>
-			<CustomLayer>
-				<Name>GH:aq_purgeur_eau</Name>
-				<Title>aq_purgeur_eau</Title>
-				<Operation type="csv">1</Operation>
-			</CustomLayer>
-			<CustomLayer>
-				<Name>GH:aq_purgeur_air</Name>
-				<Title>aq_purgeur_air</Title>
-				<Operation type="csv">1</Operation>
-			</CustomLayer>
-			<CustomLayer>
 				<Name>GH:donnacona_aq_element_controle</Name>
 				<Title>donnacona_aq_element_controle</Title>
 				<Operation type="csv">1</Operation>
@@ -138,6 +123,21 @@
 			<CustomLayer>
 				<Name>GH:aq_vanne</Name>
 				<Title>aq_vanne</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:aq_borne_incendie</Name>
+				<Title>aq_borne_incendie</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:aq_purgeur_eau</Name>
+				<Title>aq_purgeur_eau</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:aq_purgeur_air</Name>
+				<Title>aq_purgeur_air</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 		</VendorSpecificCapabilities>
