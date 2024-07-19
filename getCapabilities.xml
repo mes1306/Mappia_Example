@@ -111,11 +111,6 @@
 		<VendorSpecificCapabilities>
 			<notempty></notempty>
 			<CustomLayer>
-				<Name>GH:aq_vanne</Name>
-				<Title>aq_vanne</Title>
-				<Operation type="csv">1</Operation>
-			</CustomLayer>
-			<CustomLayer>
 				<Name>GH:aq_borne_incendie</Name>
 				<Title>aq_borne_incendie</Title>
 				<Operation type="csv">1</Operation>
@@ -138,6 +133,11 @@
 			<CustomLayer>
 				<Name>GH:donnacona_aq_reservoir</Name>
 				<Title>donnacona_aq_reservoir</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:aq_vanne</Name>
+				<Title>aq_vanne</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 		</VendorSpecificCapabilities>
